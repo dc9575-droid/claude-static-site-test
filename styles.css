@@ -139,11 +139,25 @@ img {
   padding: 10px 12px 10px 20px;
 }
 
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
 .brand img {
   width: 34px;
   height: 34px;
   object-fit: contain;
   border-radius: 8px;
+}
+
+.brand-name {
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: var(--text);
+  white-space: nowrap;
 }
 
 .main-nav {

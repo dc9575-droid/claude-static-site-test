@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Tests — Transworld Academy</title>
+<meta name="description" content="Four free English tests from Transworld Academy — Vocab Challenge, Proverbs, Plural Rules, and Silent Letters. No sign-up needed.">
+<link rel="icon" href="assets/logo.png">
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+
+<header class="site-header" id="top">
+  <div class="nav-pill">
+    <a class="brand" href="index.html#top">
+      <img src="assets/logo.png" alt="Transworld Academy logo">
+      <span class="brand-name">Transworld Academy</span>
+    </a>
+    <nav class="main-nav">
+      <a href="index.html#about">About</a>
+      <a href="index.html#programs">Programs</a>
+      <a href="index.html#contact">Contact</a>
+    </nav>
+    <a class="btn btn-primary btn-small" href="vocab-test.html">Vocab Test</a>
+    <button class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main>
+  <section class="section test-intro">
+    <div class="container">
+      <span class="section-tag">English Tests</span>
+      <h1>Four quick challenges to sharpen your English</h1>
+      <p class="section-lead">Pick one below to start. No sign-up needed — just answer and see how you score.</p>
+      <span class="test-pill">Free · 10 questions each</span>
+    </div>
+  </section>
+
+  <section class="section section-alt" id="pickerSection">
+    <div class="container">
+      <h2>Choose a test</h2>
+      <div class="cards three-up test-picker" id="testPicker">
+        <article class="bento-cell test-card" data-test="vocab">
+          <span class="card-icon">📖</span>
+          <h3>Vocab Challenge</h3>
+          <p>10 questions on the words English learners mix up most.</p>
+          <button class="btn btn-outline test-start">Start →</button>
+        </article>
+        <article class="bento-cell test-card" data-test="proverbs">
+          <span class="card-icon">💬</span>
+          <h3>Proverbs Challenge</h3>
+          <p>10 questions on common English proverbs and what they really mean.</p>
+          <button class="btn btn-outline test-start">Start →</button>
+        </article>
+        <article class="bento-cell test-card" data-test="plurals">
+          <span class="card-icon">🔤</span>
+          <h3>Plural Rules</h3>
+          <p>10 questions on turning tricky singular nouns into their correct plural form.</p>
+          <button class="btn btn-outline test-start">Start →</button>
+        </article>
+        <article class="bento-cell test-card" data-test="silent">
+          <span class="card-icon">🔇</span>
+          <h3>Silent Letters</h3>
+          <p>10 questions on finding the letter that isn't pronounced.</p>
+          <button class="btn btn-outline test-start">Start →</button>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section quiz-section" id="quizSection" hidden>
+    <div class="container quiz-container">
+      <div class="quiz-meta">
+        <span class="quiz-title" id="quizTitle"></span>
+        <span class="quiz-progress" id="quizProgress">Question 1 of 10</span>
+        <span class="quiz-score">Score: <span id="quizScore">0 / 0</span></span>
+      </div>
+      <div class="quiz-card">
+        <p class="quiz-prompt" id="quizPrompt"></p>
+        <div class="quiz-options" id="quizOptions"></div>
+        <button class="btn btn-primary quiz-next" id="quizNext" hidden>Next question</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="section results-section" id="resultsSection" hidden>
+    <div class="container results-container">
+      <span class="section-tag">Results</span>
+      <h2>Here's how you did</h2>
+      <div class="results-score" id="resultsScore">0 / 10</div>
+      <p class="results-feedback" id="resultsFeedback"></p>
+      <div class="results-actions">
+        <button class="btn btn-outline" id="retryBtn">Try again</button>
+        <button class="btn btn-outline" id="anotherTestBtn">Take another test</button>
+        <a class="btn btn-primary" href="tel:+919892179575">Call to enroll</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <a class="brand" href="index.html#top">
+      <img src="assets/logo.png" alt="Transworld Academy logo">
+      <span class="brand-name">Transworld Academy</span>
+    </a>
+    <p>&copy; 2026 Transworld Academy. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+<script src="assets/data/quiz-data.js"></script>
+<script src="vocab-test.js"></script>
+</body>
+</html>

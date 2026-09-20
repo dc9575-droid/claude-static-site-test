@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>English Tests — Transworld Academy</title>
 <meta name="description" content="Four free English tests from Transworld Academy — Vocab Challenge, Proverbs, Plural Rules, and Silent Letters. No sign-up needed.">
+<link rel="canonical" href="https://twacademy.in/vocab-test.html">
 <link rel="icon" href="assets/logo.png">
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="quiz.css">
@@ -81,7 +82,8 @@
       <div class="quiz-card">
         <p class="quiz-prompt" id="quizPrompt"></p>
         <div class="quiz-options" id="quizOptions"></div>
-        <button class="btn btn-primary quiz-next" id="quizNext" hidden>Next question</button>
+        <p class="quiz-explanation" id="quizExplanation" hidden></p>
+        <button class="btn btn-primary quiz-next" id="quizNext" hidden disabled>Next question</button>
       </div>
     </div>
   </section>
@@ -114,5 +116,38 @@
 <script src="script.js"></script>
 <script src="assets/data/quiz-data.js"></script>
 <script src="vocab-test.js"></script>
+<!-- CYKIK support button -->
+<div id="cykik-support-btn" onclick="Mibew.Objects.ChatPopups['6aa641c4b996efd7'].open();return false;" style="position:fixed;bottom:20px;right:20px;z-index:9999;display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border-radius:999px;cursor:pointer;font-family:sans-serif;font-size:14px;box-shadow:0 2px 8px rgba(0,0,0,0.15);background:#f1f1f1;color:#333;transition:background .2s, color .2s;">
+	<span id="cykik-support-dot" style="width:10px;height:10px;border-radius:50%;background:#999;flex-shrink:0;"></span>
+	<span id="cykik-support-label">Support</span>
+</div>
+<script type="text/javascript" src="https://cykik.in/live-support/js/compiled/chat_popup.js"></script>
+<script type="text/javascript">
+Mibew.ChatPopup.init({"id":"6aa641c4b996efd7","url":"https:\/\/cykik.in\/live-support\/chat?locale=en","preferIFrame":true,"modSecurity":false,"forceSecure":false,"style":"","width":640,"height":480,"resizable":true,"styleLoader":"https:\/\/cykik.in\/live-support\/chat\/style\/popup"});
+(function() {
+	function updateStatus() {
+		fetch('https://cykik.in/wp-json/cykik/v1/support-status').then(function(r){ return r.json(); }).then(function(data) {
+			var dot = document.getElementById('cykik-support-dot');
+			var label = document.getElementById('cykik-support-label');
+			var btn = document.getElementById('cykik-support-btn');
+			if (!dot || !label || !btn) return;
+			if (data.online) {
+				dot.style.background = '#3B6D11';
+				label.textContent = 'Online';
+				btn.style.background = '#EAF3DE';
+				btn.style.color = '#173404';
+			} else {
+				dot.style.background = '#378ADD';
+				label.textContent = 'Leave a message';
+				btn.style.background = '#E6F1FB';
+				btn.style.color = '#042C53';
+			}
+		}).catch(function(){});
+	}
+	updateStatus();
+	setInterval(updateStatus, 20000);
+})();
+</script>
+<!-- / CYKIK support button -->
 </body>
 </html>

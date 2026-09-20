@@ -6,7 +6,8 @@ window.QUIZ_DATA = {
     "anyone",
     "any one"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Anyone' (one word) means 'any person'; 'any one' refers to a specific single item from a group."
   },
   {
    "prompt": "Can you ___ me what happened at the meeting?",
@@ -14,7 +15,8 @@ window.QUIZ_DATA = {
     "tell",
     "say"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Tell' is followed directly by the listener (tell me); 'say' needs 'to' before the listener (say to me)."
   },
   {
    "prompt": "He was ___ that he had locked the front door.",
@@ -22,7 +24,8 @@ window.QUIZ_DATA = {
     "curtain",
     "certain"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Certain' means sure or confident; 'curtain' is the fabric covering a window."
   },
   {
    "prompt": "Could I ___ your pen for a moment?",
@@ -30,7 +33,8 @@ window.QUIZ_DATA = {
     "lend",
     "borrow"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Borrow' means to take something (with permission); 'lend' means to give something out temporarily."
   },
   {
    "prompt": "Of all the students, she scored ___ marks in the exam.",
@@ -38,7 +42,8 @@ window.QUIZ_DATA = {
     "the most",
     "most"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'The most' is used for the superlative form in a comparison; 'most' alone usually means 'the majority'."
   },
   {
    "prompt": "After years in teaching, she decided to change her ___ entirely.",
@@ -47,7 +52,8 @@ window.QUIZ_DATA = {
     "career",
     "carrier"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Career' is your profession over time; a 'carrier' transports things, and a 'courier' delivers them."
   },
   {
    "prompt": "The gym hired a new personal ___ last month.",
@@ -55,7 +61,8 @@ window.QUIZ_DATA = {
     "trainee",
     "trainer"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "A 'trainer' teaches or coaches; a 'trainee' is the person being trained."
   },
   {
    "prompt": "He's a very ___ person who makes friends easily.",
@@ -63,7 +70,8 @@ window.QUIZ_DATA = {
     "outgoing",
     "going out"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Outgoing' describes a sociable personality; 'going out' describes the action of leaving or socialising."
   },
   {
    "prompt": "The region is facing a serious water ___ this summer.",
@@ -71,7 +79,8 @@ window.QUIZ_DATA = {
     "shortage",
     "shortness"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "A 'shortage' means there isn't enough of something; 'shortness' usually describes physical length or height."
   },
   {
    "prompt": "Could you ___ me to call the dentist tomorrow?",
@@ -79,7 +88,8 @@ window.QUIZ_DATA = {
     "remind",
     "remember"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Remind' means to help someone else remember; 'remember' means to recall something yourself."
   },
   {
    "prompt": "You ___ come if you're too tired — it's completely optional.",
@@ -87,7 +97,8 @@ window.QUIZ_DATA = {
     "don't have to",
     "mustn't"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Don't have to' means it's optional; 'mustn't' means it's forbidden."
   },
   {
    "prompt": "She ___ a new laptop from the shop yesterday.",
@@ -95,7 +106,8 @@ window.QUIZ_DATA = {
     "brought",
     "bought"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Bought' is the past tense of 'buy'; 'brought' is the past tense of 'bring'."
   },
   {
    "prompt": "By the end of the lecture, most students looked ___.",
@@ -103,7 +115,8 @@ window.QUIZ_DATA = {
     "bored",
     "boring"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Bored' describes how a person feels; 'boring' describes the thing causing that feeling."
   },
   {
    "prompt": "I've lived in this city ___ five years now.",
@@ -111,7 +124,8 @@ window.QUIZ_DATA = {
     "for",
     "since (time)"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'For' is used with a duration of time; 'since' is used with a specific starting point."
   },
   {
    "prompt": "The children were ___ of the loud thunderstorm.",
@@ -119,7 +133,8 @@ window.QUIZ_DATA = {
     "scared",
     "scary"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Scared' describes how a person feels; 'scary' describes the thing causing the fear."
   },
   {
    "prompt": "Please ___ to the next section once you've finished this page.",
@@ -127,7 +142,8 @@ window.QUIZ_DATA = {
     "precede",
     "proceed"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Proceed' means to continue or move forward; 'precede' means to come before something."
   },
   {
    "prompt": "I couldn't ___ his kind invitation to the wedding.",
@@ -135,7 +151,8 @@ window.QUIZ_DATA = {
     "except",
     "accept"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Accept' means to agree to something; 'except' means excluding something."
   },
   {
    "prompt": "She was ___ to find a solution before the deadline.",
@@ -143,7 +160,8 @@ window.QUIZ_DATA = {
     "disparate",
     "desperate"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Desperate' means feeling a strong urgent need; 'disparate' means very different from each other."
   },
   {
    "prompt": "Could you ___ my plants while I'm on holiday?",
@@ -151,7 +169,8 @@ window.QUIZ_DATA = {
     "take care",
     "take care of"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Take care of' means to look after someone/something; 'take care' alone is usually said as a farewell."
   },
   {
    "prompt": "The region suffered a severe ___ that summer, ruining the crops.",
@@ -159,7 +178,8 @@ window.QUIZ_DATA = {
     "drought",
     "draught"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "A 'drought' is a long period without rain; a 'draught' is a current of air."
   },
   {
    "prompt": "It's easy to ___ small mistakes when you're in a hurry.",
@@ -167,7 +187,8 @@ window.QUIZ_DATA = {
     "overlook",
     "look over"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Overlook' means to fail to notice something; 'look over' means to review something carefully."
   },
   {
    "prompt": "Please give my ___ to your parents when you see them.",
@@ -176,7 +197,8 @@ window.QUIZ_DATA = {
     "regards",
     "regard"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Regards' (plural) means 'best wishes'; 'regard' means to consider, and 'regardless' means 'without concern for'."
   },
   {
    "prompt": "The only ___ of the new flat is that it's far from the station.",
@@ -184,7 +206,8 @@ window.QUIZ_DATA = {
     "underside",
     "downside"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Downside' means a disadvantage; 'underside' means the bottom surface of something."
   },
   {
    "prompt": "Could you please be a little ___? Others are still reading.",
@@ -192,7 +215,8 @@ window.QUIZ_DATA = {
     "quite",
     "quiet"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Quiet' means making little noise; 'quite' means 'fairly' or 'completely'."
   },
   {
    "prompt": "I've ___ finished my project, so I can relax now.",
@@ -200,7 +224,8 @@ window.QUIZ_DATA = {
     "already",
     "all ready"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Already' means 'by this time'; 'all ready' means everyone/everything is prepared."
   },
   {
    "prompt": "She has never been to Paris, ___ has she visited Rome.",
@@ -208,7 +233,8 @@ window.QUIZ_DATA = {
     "or",
     "nor"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Nor' continues a negative statement (never...nor); 'or' is used for positive alternatives."
   },
   {
    "prompt": "The warm tea helped ___ her sore throat.",
@@ -216,7 +242,8 @@ window.QUIZ_DATA = {
     "soothe",
     "sooth"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Soothe' means to calm or relieve; 'sooth' is an old word meaning 'truth', rarely used today."
   },
   {
    "prompt": "___ of these two colours do you prefer for the wall?",
@@ -224,7 +251,8 @@ window.QUIZ_DATA = {
     "which",
     "what"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Which' is used when choosing from a specific, limited set (like 'these two'); 'what' is used for open-ended questions."
   },
   {
    "prompt": "___ coming to the party tonight, I heard.",
@@ -232,7 +260,8 @@ window.QUIZ_DATA = {
     "his",
     "he's"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'He's' is a contraction of 'he is'; 'his' shows possession."
   },
   {
    "prompt": "Please send your ___ to the office by email.",
@@ -240,7 +269,8 @@ window.QUIZ_DATA = {
     "enquiry",
     "inquiry"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Enquiry' is typically a general question; 'inquiry' is typically a formal investigation."
   },
   {
    "prompt": "The teacher gave the class extra ___ over the weekend.",
@@ -248,7 +278,8 @@ window.QUIZ_DATA = {
     "homework",
     "housework"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Homework' is school work done at home; 'housework' is cleaning and household chores."
   },
   {
    "prompt": "Reading before bed became part of her ___ routine.",
@@ -256,7 +287,8 @@ window.QUIZ_DATA = {
     "every day",
     "everyday"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Everyday' (one word) is an adjective meaning 'routine'; 'every day' (two words) means 'each day'."
   },
   {
    "prompt": "___ you can borrow my notes, no problem at all.",
@@ -264,7 +296,8 @@ window.QUIZ_DATA = {
     "of course",
     "off course"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Of course' means 'certainly'; 'off course' means not following the planned direction/route."
   },
   {
    "prompt": "She didn't ___ to my message until the next morning.",
@@ -272,7 +305,8 @@ window.QUIZ_DATA = {
     "reply",
     "replay"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Reply' means to answer; 'replay' means to play something again."
   },
   {
    "prompt": "You need to ___ every day if you want to improve your English.",
@@ -280,7 +314,8 @@ window.QUIZ_DATA = {
     "practice",
     "practise"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "In British English, 'practise' is the verb (an action); 'practice' is the noun."
   },
   {
    "prompt": "Could you ___ a cup of coffee for me, please?",
@@ -288,7 +323,8 @@ window.QUIZ_DATA = {
     "make",
     "do"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Make' is used for creating something like coffee; 'do' is used for activities or tasks in general."
   },
   {
    "prompt": "She enjoys many outdoor sports, ___ hiking, cycling, and swimming.",
@@ -296,7 +332,8 @@ window.QUIZ_DATA = {
     "e.g.",
     "i.e."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'E.g.' means 'for example'; 'i.e.' means 'that is' (used to clarify, not to list examples)."
   },
   {
    "prompt": "The new policy had an immediate ___ on staff morale.",
@@ -304,7 +341,8 @@ window.QUIZ_DATA = {
     "effect",
     "affect"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Effect' is usually the noun (a result); 'affect' is usually the verb (to influence)."
   },
   {
    "prompt": "The audience was ___ made up of college students.",
@@ -312,7 +350,8 @@ window.QUIZ_DATA = {
     "most",
     "mostly"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Mostly' means 'for the most part'; 'most' means 'the majority of' and is usually followed directly by a noun."
   },
   {
    "prompt": "It's dangerous to ___ another car on a sharp bend.",
@@ -320,7 +359,8 @@ window.QUIZ_DATA = {
     "takeover / take over",
     "overtake"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Overtake' means to pass another vehicle; a 'takeover' is a noun for acquiring a company or control."
   },
   {
    "prompt": "Be careful not to ___ your keys again.",
@@ -328,7 +368,8 @@ window.QUIZ_DATA = {
     "loose",
     "lose"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Lose' means to misplace something; 'loose' is an adjective meaning not tight."
   },
   {
    "prompt": "Her storytelling never fails to ___ the audience.",
@@ -336,7 +377,8 @@ window.QUIZ_DATA = {
     "captivate",
     "capture"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Captivate' means to charm or fascinate; 'capture' means to physically seize something."
   },
   {
    "prompt": "Honesty is a ___ she never compromises on.",
@@ -344,7 +386,8 @@ window.QUIZ_DATA = {
     "principle",
     "principal"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "A 'principle' is a rule or belief; a 'principal' is the head of a school or the main/most important thing."
   },
   {
    "prompt": "The novel's ___ overcomes many hardships to achieve her dream.",
@@ -352,7 +395,8 @@ window.QUIZ_DATA = {
     "heroine",
     "heroin"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "A 'heroine' is a female hero in a story; 'heroin' is a drug — very different words."
   },
   {
    "prompt": "___ Tom ___ his brother wanted to attend the meeting.",
@@ -360,7 +404,8 @@ window.QUIZ_DATA = {
     "neither nor",
     "either or"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Neither...nor' is used for two negative options; 'either...or' is used for positive choices."
   },
   {
    "prompt": "In her speech, she chose to ___ to the recent scandal without naming names.",
@@ -368,7 +413,8 @@ window.QUIZ_DATA = {
     "elude",
     "allude"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Allude' means to refer to something indirectly; 'elude' means to escape or avoid."
   },
   {
    "prompt": "Volunteering became ___ of her weekly routine.",
@@ -376,7 +422,8 @@ window.QUIZ_DATA = {
     "a part",
     "apart"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'A part of' means belonging to something; 'apart' means separated or distant."
   },
   {
    "prompt": "It took real courage to ___ her fear of public speaking.",
@@ -384,7 +431,8 @@ window.QUIZ_DATA = {
     "overcome",
     "come over"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Overcome' means to successfully deal with a difficulty; 'come over' means to visit."
   },
   {
    "prompt": "The final match of the tournament was really ___ to watch.",
@@ -392,7 +440,8 @@ window.QUIZ_DATA = {
     "excited",
     "exciting"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Exciting' describes the thing that causes excitement; 'excited' describes how a person feels."
   },
   {
    "prompt": "Let's ___ about your plans for the weekend.",
@@ -400,7 +449,8 @@ window.QUIZ_DATA = {
     "say",
     "talk"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Talk about' is the natural phrase for discussing a topic; 'say' is usually followed directly by the words spoken."
   },
   {
    "prompt": "We're planning a short ___ to the hill station next weekend.",
@@ -410,7 +460,8 @@ window.QUIZ_DATA = {
     "journey",
     "voyage"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "A short outing like this is best called a 'trip'; 'journey' suggests longer travel, and 'voyage' specifically means travel by sea."
   },
   {
    "prompt": "There are ___ students in this class than last year.",
@@ -418,7 +469,8 @@ window.QUIZ_DATA = {
     "less",
     "fewer"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Fewer' is used with countable nouns like 'students'; 'less' is used with uncountable nouns."
   },
   {
    "prompt": "He was very ___ about the surprise party plans.",
@@ -426,7 +478,8 @@ window.QUIZ_DATA = {
     "discreet",
     "discrete"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Discreet' means careful not to attract attention; 'discrete' means separate or distinct."
   },
   {
    "prompt": "The teacher had to ___ the students about the upcoming exam.",
@@ -434,7 +487,8 @@ window.QUIZ_DATA = {
     "warn",
     "worn"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Warn' means to alert someone to a danger; 'worn' is the past participle of 'wear'."
   },
   {
    "prompt": "Do you ___ what time the shop closes today?",
@@ -442,7 +496,8 @@ window.QUIZ_DATA = {
     "know",
     "now"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Know' means to have information; 'now' refers to the present moment — different words entirely."
   },
   {
    "prompt": "Remember to ___ the chicken before you start cooking.",
@@ -450,7 +505,8 @@ window.QUIZ_DATA = {
     "defrost",
     "melt"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Defrost' means to remove ice/thaw frozen food; 'melt' describes a solid turning to liquid generally."
   },
   {
    "prompt": "He's studying ___ at university, focusing on distant galaxies.",
@@ -458,7 +514,8 @@ window.QUIZ_DATA = {
     "astronomy",
     "astrology"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Astronomy' is the scientific study of space; 'astrology' is the belief system about stars and fate."
   },
   {
    "prompt": "The manager decided to ___ everyone's salary this year.",
@@ -466,7 +523,8 @@ window.QUIZ_DATA = {
     "raise",
     "rise"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Raise' is transitive and needs an object, like 'raise salaries'; 'rise' is intransitive and needs no object."
   },
   {
    "prompt": "Regular practice will help you ___ your pronunciation.",
@@ -474,7 +532,8 @@ window.QUIZ_DATA = {
     "improve",
     "improvise"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Improve' means to get better at something; 'improvise' means to create something on the spot without preparation."
   },
   {
    "prompt": "___ the cost, there's also the question of time.",
@@ -482,7 +541,8 @@ window.QUIZ_DATA = {
     "beside",
     "besides"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Besides' means 'in addition to'; 'beside' means 'next to'."
   },
   {
    "prompt": "The team's ___ improved a lot after the surprise bonus.",
@@ -490,7 +550,8 @@ window.QUIZ_DATA = {
     "moral",
     "morale"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Morale' is the level of confidence/spirit of a group; 'moral' relates to right and wrong behaviour."
   },
   {
    "prompt": "The research team collected a large amount of ___ over six months.",
@@ -498,7 +559,8 @@ window.QUIZ_DATA = {
     "data",
     "datum"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Data' is normally treated as the standard word for information; 'datum' is its rarely used singular form."
   },
   {
    "prompt": "She's very ___ in learning new languages.",
@@ -506,7 +568,8 @@ window.QUIZ_DATA = {
     "interesting",
     "interested"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Interested' describes how a person feels; 'interesting' describes the thing causing that feeling."
   },
   {
    "prompt": "We're going to ___ as pirates for the party.",
@@ -514,7 +577,8 @@ window.QUIZ_DATA = {
     "get dressed",
     "dress up"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Dress up' means to wear a costume or formal clothes; 'get dressed' just means putting on everyday clothes."
   },
   {
    "prompt": "We have ___ of homework this weekend.",
@@ -523,7 +587,8 @@ window.QUIZ_DATA = {
     "allot",
     "a lot"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "'A lot' (two words) means 'many'; 'alot' isn't a real word, and 'allot' means to distribute."
   },
   {
    "prompt": "She left a ___ on his phone about the schedule change.",
@@ -531,7 +596,8 @@ window.QUIZ_DATA = {
     "message",
     "massage"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "A 'message' is written or spoken information; a 'massage' is a physical rubbing of the body."
   },
   {
    "prompt": "Let's ___ a movie together tonight.",
@@ -539,7 +605,8 @@ window.QUIZ_DATA = {
     "look at",
     "watch"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Watch' is used for something ongoing, like a movie; 'look at' suggests a brief glance."
   },
   {
    "prompt": "The man ___ called earlier left his number with me.",
@@ -548,7 +615,8 @@ window.QUIZ_DATA = {
     "which",
     "that"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Who' is used as the relative pronoun for people; 'which' is for things, and 'that' is more informal/general."
   },
   {
    "prompt": "She felt ___ about the job offer — excited but also unsure.",
@@ -556,7 +624,8 @@ window.QUIZ_DATA = {
     "indifferent",
     "ambivalent"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Ambivalent' means having mixed feelings; 'indifferent' means not caring at all."
   },
   {
    "prompt": "She bought a matching handbag as an ___ for the outfit.",
@@ -564,7 +633,8 @@ window.QUIZ_DATA = {
     "accessory",
     "accessary"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "An 'accessory' is a fashion item; an 'accessary' is a legal term for an accomplice in a crime."
   },
   {
    "prompt": "Is this ___ umbrella, or did someone else leave it here?",
@@ -572,7 +642,8 @@ window.QUIZ_DATA = {
     "me",
     "my"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'My' shows possession before a noun; 'me' is an object pronoun."
   },
   {
    "prompt": "The town ___ will meet next Tuesday to discuss the new park.",
@@ -580,7 +651,8 @@ window.QUIZ_DATA = {
     "counsel",
     "council"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "A 'council' is a group of people who govern or advise; 'counsel' means advice or guidance."
   },
   {
    "prompt": "The car remained completely ___ at the red light.",
@@ -588,7 +660,8 @@ window.QUIZ_DATA = {
     "stationary",
     "stationery"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Stationary' means not moving; 'stationery' refers to paper and writing materials."
   },
   {
    "prompt": "To ___ should I address this letter?",
@@ -596,7 +669,8 @@ window.QUIZ_DATA = {
     "whom",
     "who"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Whom' is used as the object after a preposition like 'to'; 'who' is used as the subject."
   },
   {
    "prompt": "She passed her ___ on the very first attempt.",
@@ -604,7 +678,8 @@ window.QUIZ_DATA = {
     "test drive",
     "driving test"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "A 'driving test' checks if you can drive; a 'test drive' is trying out a car before buying it."
   },
   {
    "prompt": "I ___ forget to lock the front door before leaving.",
@@ -613,7 +688,8 @@ window.QUIZ_DATA = {
     "some time",
     "sometimes"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "'Sometimes' means 'occasionally'; 'sometime' means 'at an unspecified time', and 'some time' means 'a period of time'."
   },
   {
    "prompt": "It's hard to ___ with all this noise outside.",
@@ -621,7 +697,8 @@ window.QUIZ_DATA = {
     "concentrate",
     "concentrated"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Concentrate' is the verb (to focus); 'concentrated' is an adjective describing something reduced or strong."
   },
   {
    "prompt": "The children were ___ about how the machine worked.",
@@ -629,7 +706,8 @@ window.QUIZ_DATA = {
     "curious",
     "interesting"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Curious' describes wanting to know more; 'interesting' describes something that holds your attention."
   },
   {
    "prompt": "By his forties, he had gone completely ___.",
@@ -637,7 +715,8 @@ window.QUIZ_DATA = {
     "bald",
     "bold"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Bald' describes having no hair; 'bold' describes being confident or daring."
   },
   {
    "prompt": "You need to ___ carefully to understand the instructions.",
@@ -645,7 +724,8 @@ window.QUIZ_DATA = {
     "listen",
     "hear"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Listen' means to pay attention to a sound; 'hear' just means the sound reaches your ears."
   },
   {
    "prompt": "I'll call you back a bit ___, once I'm free.",
@@ -653,7 +733,8 @@ window.QUIZ_DATA = {
     "latter",
     "later"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Later' refers to a future point in time; 'latter' refers to the second of two things already mentioned."
   },
   {
    "prompt": "I could ___ hear him over the noise of the traffic.",
@@ -661,7 +742,8 @@ window.QUIZ_DATA = {
     "hard",
     "hardly"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Hardly' means 'barely' or 'almost not'; 'hard' means 'with effort' or 'firm'."
   },
   {
    "prompt": "I'd like to ___ about the price of this course.",
@@ -669,7 +751,8 @@ window.QUIZ_DATA = {
     "inquire",
     "enquire"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Enquire' is typically used for general questions; 'inquire' is typically used for formal investigations."
   },
   {
    "prompt": "The company plans to ___ into new markets next year.",
@@ -677,7 +760,8 @@ window.QUIZ_DATA = {
     "expand",
     "expend"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Expand' means to grow or increase in size; 'expend' means to spend or use up resources."
   },
   {
    "prompt": "Please put the box over ___, near the window.",
@@ -686,7 +770,8 @@ window.QUIZ_DATA = {
     "there",
     "they're"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'There' refers to a place; 'their' shows possession, and 'they're' means 'they are'."
   },
   {
    "prompt": "Please ___ your answers carefully before submitting the test.",
@@ -694,7 +779,8 @@ window.QUIZ_DATA = {
     "check",
     "control"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Check' means to verify or review; 'control' means to have power over something."
   },
   {
    "prompt": "It's never too late to ___ a new skill.",
@@ -702,7 +788,8 @@ window.QUIZ_DATA = {
     "learn",
     "teach"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Learn' means to gain knowledge; 'teach' means to give knowledge to someone else."
   },
   {
    "prompt": "He paid her a lovely ___ on her presentation.",
@@ -710,7 +797,8 @@ window.QUIZ_DATA = {
     "compliment",
     "complement"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "A 'compliment' is a nice remark; a 'complement' is something that completes or goes well with another thing."
   },
   {
    "prompt": "She sings really ___, better than most professionals.",
@@ -718,7 +806,8 @@ window.QUIZ_DATA = {
     "good",
     "well"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Well' is the adverb describing how an action is done; 'good' is the adjective describing a noun."
   },
   {
    "prompt": "He tends to ___ about the weather whenever it rains.",
@@ -726,7 +815,8 @@ window.QUIZ_DATA = {
     "moan",
     "mourn"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Moan' means to complain; 'mourn' means to grieve over a loss, usually a death."
   },
   {
    "prompt": "He decided to ___ down for a short nap after lunch.",
@@ -734,7 +824,8 @@ window.QUIZ_DATA = {
     "lie",
     "lay"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Lie' (intransitive) means to recline and needs no object; 'lay' needs an object, as in 'lay the book down'."
   },
   {
    "prompt": "He earns a ___ salary at his new job.",
@@ -742,7 +833,8 @@ window.QUIZ_DATA = {
     "descent",
     "decent"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Decent' means good or acceptable; 'descent' means going downward or one's ancestry."
   },
   {
    "prompt": "Please wait here ___ I come back.",
@@ -750,7 +842,8 @@ window.QUIZ_DATA = {
     "by",
     "until"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Until' means up to a point in time; 'by' means no later than a point in time."
   },
   {
    "prompt": "Could you ___ my dog while I'm away this weekend?",
@@ -758,7 +851,8 @@ window.QUIZ_DATA = {
     "look after",
     "look for"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Look after' means to take care of someone/something; 'look for' means to search for something."
   },
   {
    "prompt": "We're planning a two-week ___ to Goa this December.",
@@ -766,7 +860,8 @@ window.QUIZ_DATA = {
     "the weekend",
     "holiday"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "A multi-week trip is a 'holiday'; 'the weekend' refers only to Saturday and Sunday."
   },
   {
    "prompt": "This is a ___ matter I'd rather not discuss at work.",
@@ -774,7 +869,8 @@ window.QUIZ_DATA = {
     "personal",
     "personnel"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Personal' means private or individual; 'personnel' refers to the staff of an organisation."
   },
   {
    "prompt": "It was ___ a beautiful sunset that everyone stopped to take photos.",
@@ -782,7 +878,8 @@ window.QUIZ_DATA = {
     "so",
     "such"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Such a' is used before an adjective + noun; 'so' is used directly before an adjective with no noun."
   },
   {
    "prompt": "I've ___ to Paris twice, and I loved it both times.",
@@ -790,7 +887,8 @@ window.QUIZ_DATA = {
     "gone",
     "been"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Been' is used for a completed visit (you went and came back); 'gone' means still at that place."
   },
   {
    "prompt": "She went to ___ for a few minutes to rest her back.",
@@ -798,7 +896,8 @@ window.QUIZ_DATA = {
     "lie down",
     "lay down"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Lie down' means to recline yourself; 'lay down' would need an object, like 'lay the baby down'."
   },
   {
    "prompt": "We stayed up late to ___ the football match.",
@@ -806,7 +905,8 @@ window.QUIZ_DATA = {
     "see",
     "watch"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Watch' is used for something ongoing you pay attention to, like a match; 'see' just means it's in your view."
   },
   {
    "prompt": "Let's put the chairs ___ before the guests arrive.",
@@ -814,7 +914,8 @@ window.QUIZ_DATA = {
     "all together",
     "altogether"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'All together' means everyone/everything in one place; 'altogether' means 'completely'."
   },
   {
    "prompt": "I think you gave me the ___ address.",
@@ -822,7 +923,8 @@ window.QUIZ_DATA = {
     "wrong",
     "wrongly"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Wrong' is the adjective used before a noun, like 'wrong address'; 'wrongly' is the adverb used with a verb."
   },
   {
    "prompt": "He ___ me the meeting had been postponed.",
@@ -830,7 +932,8 @@ window.QUIZ_DATA = {
     "told",
     "said"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Told' is followed directly by the listener (told me); 'said' needs 'to' before the listener (said to me)."
   },
   {
    "prompt": "It felt ___ to be back in the old classroom after so many years.",
@@ -838,7 +941,8 @@ window.QUIZ_DATA = {
     "stranger",
     "strange"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Strange' is the adjective describing a feeling; a 'stranger' is a noun for an unknown person."
   },
   {
    "prompt": "I'd like ___ tea, please, if you're making a pot.",
@@ -846,7 +950,8 @@ window.QUIZ_DATA = {
     "some",
     "any"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Some' is used in offers and positive statements; 'any' is used in questions and negatives."
   },
   {
    "prompt": "I really ___ meeting you next week.",
@@ -854,7 +959,8 @@ window.QUIZ_DATA = {
     "look forward to",
     "look forward(s)"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Look forward to' is the correct phrase for anticipating something; it always needs 'to'."
   },
   {
    "prompt": "We're going ___ the market to buy vegetables.",
@@ -863,7 +969,8 @@ window.QUIZ_DATA = {
     "too",
     "to"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "'To' shows direction/movement toward a place; 'too' means 'also', and 'two' is the number 2."
   },
   {
    "prompt": "Even in a crowded room, he sometimes feels ___.",
@@ -871,7 +978,8 @@ window.QUIZ_DATA = {
     "alone",
     "lonely"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Alone' just means by yourself; 'lonely' describes the unhappy feeling of being alone."
   },
   {
    "prompt": "The school ___ helped her plan her career after graduation.",
@@ -879,7 +987,8 @@ window.QUIZ_DATA = {
     "councillor",
     "counsellor"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "A 'counsellor' gives guidance or advice; a 'councillor' is a member of a council."
   },
   {
    "prompt": "The doctor prescribed a small ___ of the medicine twice a day.",
@@ -887,7 +996,8 @@ window.QUIZ_DATA = {
     "dose",
     "doze"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "A 'dose' is a measured amount of medicine; 'doze' means to sleep lightly."
   },
   {
    "prompt": "She put a colourful ___ on her notebook.",
@@ -895,7 +1005,8 @@ window.QUIZ_DATA = {
     "stick",
     "sticker"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "A 'sticker' is the small adhesive label itself; a 'stick' is a piece of wood."
   },
   {
    "prompt": "She is taller ___ her younger brother.",
@@ -903,7 +1014,8 @@ window.QUIZ_DATA = {
     "than",
     "then"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Than' is used for comparisons; 'then' refers to time or sequence."
   },
   {
    "prompt": "The children love to ___ around the old garden after school.",
@@ -911,7 +1023,8 @@ window.QUIZ_DATA = {
     "wonder",
     "wander"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Wander' means to walk around without a fixed direction; 'wonder' means to feel curious or think about something."
   },
   {
    "prompt": "I don't like coffee, and I don't like tea ___.",
@@ -919,7 +1032,8 @@ window.QUIZ_DATA = {
     "as well / too",
     "either"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'Either' is used at the end of negative sentences; 'as well'/'too' are used in positive sentences."
   },
   {
    "prompt": "I'll meet you ___ the station at six o'clock.",
@@ -927,7 +1041,8 @@ window.QUIZ_DATA = {
     "in",
     "at"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "'At' is used for specific points like a station; 'in' is used for enclosed spaces."
   },
   {
    "prompt": "My father gave me some good ___ before the interview.",
@@ -935,7 +1050,8 @@ window.QUIZ_DATA = {
     "advice",
     "advise"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'Advice' is the noun (a suggestion); 'advise' is the verb (to give a suggestion)."
   },
   {
    "prompt": "My sister and ___ are going shopping this afternoon.",
@@ -943,7 +1059,8 @@ window.QUIZ_DATA = {
     "I",
     "me"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "'I' is used as the subject of a sentence; 'me' is used as the object."
   }
  ],
  "proverbs": [
@@ -955,7 +1072,8 @@ window.QUIZ_DATA = {
     "Being clean is seen as a sign of good character.",
     "Eating healthily helps prevent illness."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Need drives people to find creative solutions.\""
   },
   {
    "prompt": "Don't put off until tomorrow what you can do today.",
@@ -965,7 +1083,8 @@ window.QUIZ_DATA = {
     "Missing someone increases your affection for them.",
     "If nothing bad has been reported, things are probably fine."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Don't delay tasks unnecessarily.\""
   },
   {
    "prompt": "Out of sight, out of mind.",
@@ -975,7 +1094,8 @@ window.QUIZ_DATA = {
     "You will be known by the company you keep.",
     "Your actions eventually come back to affect you."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"You forget about things that aren't in front of you.\""
   },
   {
    "prompt": "A penny saved is a penny earned.",
@@ -985,7 +1105,8 @@ window.QUIZ_DATA = {
     "Big achievements take time.",
     "Being clean is seen as a sign of good character."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Not spending is the same as earning money.\""
   },
   {
    "prompt": "Silence is golden.",
@@ -995,7 +1116,8 @@ window.QUIZ_DATA = {
     "Your actions eventually come back to affect you.",
     "Responding to a bad act with another bad act doesn't fix it."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Sometimes it's best to say nothing at all.\""
   },
   {
    "prompt": "A barking dog never bites.",
@@ -1005,7 +1127,8 @@ window.QUIZ_DATA = {
     "It is success only if it works.",
     "One person needs to be in charge."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Many people talk without any action.\""
   },
   {
    "prompt": "An apple a day keeps the doctor away.",
@@ -1015,7 +1138,8 @@ window.QUIZ_DATA = {
     "It's hard for people to learn new habits late in life.",
     "It is success only if it works."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Eating healthily helps prevent illness.\""
   },
   {
    "prompt": "You cannot have your cake and eat it too.",
@@ -1025,7 +1149,8 @@ window.QUIZ_DATA = {
     "Someone who is good at many things but expert at none.",
     "A lost opportunity often leads to a new one."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"You cannot use and save the same item.\""
   },
   {
    "prompt": "The best things in life are free.",
@@ -1035,7 +1160,8 @@ window.QUIZ_DATA = {
     "Money can't buy the most valuable things.",
     "Repeated effort improves skill."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Money can't buy the most valuable things.\""
   },
   {
    "prompt": "When the cat's away the mice will play.",
@@ -1045,7 +1171,8 @@ window.QUIZ_DATA = {
     "Need drives people to find creative solutions.",
     "Saying less about a problem helps it resolve faster."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Some work only when the boss watches.\""
   },
   {
    "prompt": "Look before you leap.",
@@ -1055,7 +1182,8 @@ window.QUIZ_DATA = {
     "Seize the opportunity when it's available.",
     "A bad experience makes you cautious the next time."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Use some caution before making a move.\""
   },
   {
    "prompt": "Prevention is better than cure.",
@@ -1065,7 +1193,8 @@ window.QUIZ_DATA = {
     "A lost opportunity often leads to a new one.",
     "What's beautiful is a matter of personal opinion."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"It's better to stop a problem before it happens.\""
   },
   {
    "prompt": "Actions have consequences.",
@@ -1075,7 +1204,8 @@ window.QUIZ_DATA = {
     "Do what you tell others to do.",
     "Whatever you do will lead to some result, good or bad."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Whatever you do will lead to some result, good or bad.\""
   },
   {
    "prompt": "Time is money.",
@@ -1085,7 +1215,8 @@ window.QUIZ_DATA = {
     "Don't be allured by flashy temptations.",
     "Home is the most comfortable place there is."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Time is a valuable resource, just like money.\""
   },
   {
    "prompt": "What goes around comes around.",
@@ -1095,7 +1226,8 @@ window.QUIZ_DATA = {
     "Family bonds are stronger than other relationships.",
     "Do what you tell others to do."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Your actions eventually come back to affect you.\""
   },
   {
    "prompt": "A leopard can't change its spots.",
@@ -1105,7 +1237,8 @@ window.QUIZ_DATA = {
     "Emotional pain fades with time.",
     "Doing something late is better than not doing it at all."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"People's basic nature doesn't really change.\""
   },
   {
    "prompt": "Jack of all trades, master of none.",
@@ -1115,7 +1248,8 @@ window.QUIZ_DATA = {
     "Family bonds are stronger than other relationships.",
     "You must choose one option, not both."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Someone who is good at many things but expert at none.\""
   },
   {
    "prompt": "He who pays the piper calls the tune.",
@@ -1125,7 +1259,8 @@ window.QUIZ_DATA = {
     "What's beautiful is a matter of personal opinion.",
     "Whoever funds something gets to control how it's done."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Whoever funds something gets to control how it's done.\""
   },
   {
    "prompt": "The proof of the pudding is in the eating.",
@@ -1135,7 +1270,8 @@ window.QUIZ_DATA = {
     "You will be known by the company you keep.",
     "People's basic nature doesn't really change."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"It is success only if it works.\""
   },
   {
    "prompt": "Fortune favours the bold.",
@@ -1145,7 +1281,8 @@ window.QUIZ_DATA = {
     "Emotional pain fades with time.",
     "Sometimes it's best to say nothing at all."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Being brave brings rewards.\""
   },
   {
    "prompt": "A friend in need is a friend indeed.",
@@ -1155,7 +1292,8 @@ window.QUIZ_DATA = {
     "Long-held habits are hard to change.",
     "It's hard for people to learn new habits late in life."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"A true friend is one who helps you when you're in trouble.\""
   },
   {
    "prompt": "Familiarity breeds contempt.",
@@ -1165,7 +1303,8 @@ window.QUIZ_DATA = {
     "Take advantage of good conditions while they last.",
     "Some work only when the boss watches."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Knowing someone too well can lead to less respect for them.\""
   },
   {
    "prompt": "Old habits die hard.",
@@ -1175,7 +1314,8 @@ window.QUIZ_DATA = {
     "Long-held habits are hard to change.",
     "Images communicate more than descriptions can."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Long-held habits are hard to change.\""
   },
   {
    "prompt": "Practice what you preach.",
@@ -1185,7 +1325,8 @@ window.QUIZ_DATA = {
     "One sure thing is better than two maybes.",
     "Do what you tell others to do."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Do what you tell others to do.\""
   },
   {
    "prompt": "Two wrongs don't make a right.",
@@ -1195,7 +1336,8 @@ window.QUIZ_DATA = {
     "Responding to a bad act with another bad act doesn't fix it.",
     "People's basic nature doesn't really change."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Responding to a bad act with another bad act doesn't fix it.\""
   },
   {
    "prompt": "You can lead a horse to water but you can't make it drink.",
@@ -1205,7 +1347,8 @@ window.QUIZ_DATA = {
     "You can only help those who want help.",
     "Don't judge something by appearances alone."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"You can only help those who want help.\""
   },
   {
    "prompt": "The early bird catches the worm.",
@@ -1215,7 +1358,8 @@ window.QUIZ_DATA = {
     "Repeated effort improves skill.",
     "Acting quickly gives you an advantage."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Acting quickly gives you an advantage.\""
   },
   {
    "prompt": "Every dog has its day.",
@@ -1225,7 +1369,8 @@ window.QUIZ_DATA = {
     "It's hard for people to learn new habits late in life.",
     "Everyone gets a chance to succeed eventually."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Everyone gets a chance to succeed eventually.\""
   },
   {
    "prompt": "Beggars shouldn't be choosers.",
@@ -1235,7 +1380,8 @@ window.QUIZ_DATA = {
     "Take advantage of good conditions while they last.",
     "A wise man has money because he's careful."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Don't complain about free gifts.\""
   },
   {
    "prompt": "Beauty is in the eye of the beholder.",
@@ -1245,7 +1391,8 @@ window.QUIZ_DATA = {
     "Emotional pain fades with time.",
     "Telling the truth pays off in the end."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"What's beautiful is a matter of personal opinion.\""
   },
   {
    "prompt": "A picture is worth a thousand words.",
@@ -1255,7 +1402,8 @@ window.QUIZ_DATA = {
     "Seize the opportunity when it's available.",
     "Telling the truth pays off in the end."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Images communicate more than descriptions can.\""
   },
   {
    "prompt": "You reap what you sow.",
@@ -1265,7 +1413,8 @@ window.QUIZ_DATA = {
     "Family bonds are stronger than other relationships.",
     "Your actions determine the results you get."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Your actions determine the results you get.\""
   },
   {
    "prompt": "Money doesn't grow on trees.",
@@ -1275,7 +1424,8 @@ window.QUIZ_DATA = {
     "Whatever you do will lead to some result, good or bad.",
     "Money isn't unlimited or easy to get."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Money isn't unlimited or easy to get.\""
   },
   {
    "prompt": "When one door closes, another opens.",
@@ -1285,7 +1435,8 @@ window.QUIZ_DATA = {
     "Men emulate their fathers.",
     "A lost opportunity often leads to a new one."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"A lost opportunity often leads to a new one.\""
   },
   {
    "prompt": "Strike while the iron is hot.",
@@ -1295,7 +1446,8 @@ window.QUIZ_DATA = {
     "Some work only when the boss watches.",
     "Rushing leads to mistakes."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Seize the opportunity when it's available.\""
   },
   {
    "prompt": "Haste makes waste.",
@@ -1305,7 +1457,8 @@ window.QUIZ_DATA = {
     "Repair something before the damage is too great.",
     "Rushing leads to mistakes."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Rushing leads to mistakes.\""
   },
   {
    "prompt": "The grass is always greener on the other side.",
@@ -1315,7 +1468,8 @@ window.QUIZ_DATA = {
     "You must take some risk to gain any reward.",
     "Consistent effort beats rushing."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Other situations always seem better than your own.\""
   },
   {
    "prompt": "One man's trash is another man's treasure.",
@@ -1325,7 +1479,8 @@ window.QUIZ_DATA = {
     "What's worthless to one person may be valuable to another.",
     "If nothing bad has been reported, things are probably fine."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"What's worthless to one person may be valuable to another.\""
   },
   {
    "prompt": "Blood is thicker than water.",
@@ -1335,7 +1490,8 @@ window.QUIZ_DATA = {
     "Family bonds are stronger than other relationships.",
     "It is success only if it works."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Family bonds are stronger than other relationships.\""
   },
   {
    "prompt": "Make hay while the sun shines.",
@@ -1345,7 +1501,8 @@ window.QUIZ_DATA = {
     "Take advantage of good conditions while they last.",
     "Even hard times bring something good."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Take advantage of good conditions while they last.\""
   },
   {
    "prompt": "You can't have it both ways.",
@@ -1355,7 +1512,8 @@ window.QUIZ_DATA = {
     "Use some caution before making a move.",
     "Rushing leads to mistakes."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"You must choose one option, not both.\""
   },
   {
    "prompt": "Empty vessels make the most noise.",
@@ -1365,7 +1523,8 @@ window.QUIZ_DATA = {
     "Whoever funds something gets to control how it's done.",
     "Kindness should be returned with kindness."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"People who know the least often talk the most.\""
   },
   {
    "prompt": "Let sleeping dogs lie.",
@@ -1375,7 +1534,8 @@ window.QUIZ_DATA = {
     "A lost opportunity often leads to a new one.",
     "Don't disturb a settled issue and risk new trouble."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Don't disturb a settled issue and risk new trouble.\""
   },
   {
    "prompt": "It never rains but it pours.",
@@ -1385,7 +1545,8 @@ window.QUIZ_DATA = {
     "Accept a gift graciously.",
     "What you do matters more than what you say."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Bad things sometimes can get worse.\""
   },
   {
    "prompt": "All that glitters is not gold.",
@@ -1395,7 +1556,8 @@ window.QUIZ_DATA = {
     "Use some caution before making a move.",
     "Don't be allured by flashy temptations."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Don't be allured by flashy temptations.\""
   },
   {
    "prompt": "If it ain't broke, don't fix it.",
@@ -1405,7 +1567,8 @@ window.QUIZ_DATA = {
     "Both people share responsibility in a disagreement or plan.",
     "Don't change something that's already working fine."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Don't change something that's already working fine.\""
   },
   {
    "prompt": "The squeaky wheel gets the grease.",
@@ -1415,7 +1578,8 @@ window.QUIZ_DATA = {
     "Sometimes it's best to say nothing at all.",
     "Don't be allured by flashy temptations."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"The person who complains the most gets the attention.\""
   },
   {
    "prompt": "Don't judge a book by its cover.",
@@ -1425,7 +1589,8 @@ window.QUIZ_DATA = {
     "Don't judge something by appearances alone.",
     "Repeated effort improves skill."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Don't judge something by appearances alone.\""
   },
   {
    "prompt": "Don't count your chickens until they're hatched.",
@@ -1435,7 +1600,8 @@ window.QUIZ_DATA = {
     "Some work only when the boss watches.",
     "A lost opportunity often leads to a new one."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Wait for success to celebrate.\""
   },
   {
    "prompt": "Where there's a will, there's a way.",
@@ -1445,7 +1611,8 @@ window.QUIZ_DATA = {
     "Big achievements take time.",
     "Determination finds a way to succeed."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Determination finds a way to succeed.\""
   },
   {
    "prompt": "He who hesitates is lost.",
@@ -1455,7 +1622,8 @@ window.QUIZ_DATA = {
     "People who know the least often talk the most.",
     "Don't be allured by flashy temptations."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Don't pass up opportunities.\""
   },
   {
    "prompt": "Two heads are better than one.",
@@ -1465,7 +1633,8 @@ window.QUIZ_DATA = {
     "Working together produces better ideas.",
     "Saying less about a problem helps it resolve faster."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Working together produces better ideas.\""
   },
   {
    "prompt": "Absence makes the heart grow fonder.",
@@ -1475,7 +1644,8 @@ window.QUIZ_DATA = {
     "You forget about things that aren't in front of you.",
     "Missing someone increases your affection for them."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Missing someone increases your affection for them.\""
   },
   {
    "prompt": "Easy come, easy go.",
@@ -1485,7 +1655,8 @@ window.QUIZ_DATA = {
     "You won't grow old keeping busy.",
     "Patience is often rewarded."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Things gained without effort are often lost just as easily.\""
   },
   {
    "prompt": "Better late than never.",
@@ -1495,7 +1666,8 @@ window.QUIZ_DATA = {
     "Don't disturb a settled issue and risk new trouble.",
     "Many people talk without any action."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Doing something late is better than not doing it at all.\""
   },
   {
    "prompt": "A stitch in time saves nine.",
@@ -1505,7 +1677,8 @@ window.QUIZ_DATA = {
     "Whatever you do will lead to some result, good or bad.",
     "Family bonds are stronger than other relationships."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Repair something before the damage is too great.\""
   },
   {
    "prompt": "Nothing ventured, nothing gained.",
@@ -1515,7 +1688,8 @@ window.QUIZ_DATA = {
     "Sometimes it's best to say nothing at all.",
     "Children often resemble their parents."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"You must take some risk to gain any reward.\""
   },
   {
    "prompt": "There's no place like home.",
@@ -1525,7 +1699,8 @@ window.QUIZ_DATA = {
     "Even hard times bring something good.",
     "Home is the most comfortable place there is."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Home is the most comfortable place there is.\""
   },
   {
    "prompt": "Variety is the spice of life.",
@@ -1535,7 +1710,8 @@ window.QUIZ_DATA = {
     "Bad things sometimes can get worse.",
     "People who know the least often talk the most."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Different experiences make life more interesting.\""
   },
   {
    "prompt": "Don't bite the hand that feeds you.",
@@ -1545,7 +1721,8 @@ window.QUIZ_DATA = {
     "Achieve two goals with a single action.",
     "A bad experience makes you cautious the next time."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Don't harm someone who helps you.\""
   },
   {
    "prompt": "If the shoe fits, wear it.",
@@ -1555,7 +1732,8 @@ window.QUIZ_DATA = {
     "Different experiences make life more interesting.",
     "Don't risk everything on a single plan."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Accept criticism that genuinely applies to you.\""
   },
   {
    "prompt": "All good things must come to an end.",
@@ -1565,7 +1743,8 @@ window.QUIZ_DATA = {
     "Accept other people's choices as you want your own accepted.",
     "Don't harm someone who helps you."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Nothing pleasant lasts forever.\""
   },
   {
    "prompt": "Don't burn your bridges.",
@@ -1575,7 +1754,8 @@ window.QUIZ_DATA = {
     "Knowing someone too well can lead to less respect for them.",
     "Don't ruin relationships you might need later."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Don't ruin relationships you might need later.\""
   },
   {
    "prompt": "Kill two birds with one stone.",
@@ -1585,7 +1765,8 @@ window.QUIZ_DATA = {
     "Don't delay tasks unnecessarily.",
     "Being too nosy can get you into trouble."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Achieve two goals with a single action.\""
   },
   {
    "prompt": "Rome wasn't built in a day.",
@@ -1595,7 +1776,8 @@ window.QUIZ_DATA = {
     "Acting quickly gives you an advantage.",
     "Big achievements take time."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Big achievements take time.\""
   },
   {
    "prompt": "Birds of a feather flock together.",
@@ -1605,7 +1787,8 @@ window.QUIZ_DATA = {
     "Other situations always seem better than your own.",
     "Don't pass up opportunities."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"You will be known by the company you keep.\""
   },
   {
    "prompt": "A bird in the hand is worth two in the bush.",
@@ -1615,7 +1798,8 @@ window.QUIZ_DATA = {
     "One sure thing is better than two maybes.",
     "The person who complains the most gets the attention."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"One sure thing is better than two maybes.\""
   },
   {
    "prompt": "It takes two to tango.",
@@ -1625,7 +1809,8 @@ window.QUIZ_DATA = {
     "Missing someone increases your affection for them.",
     "Both people share responsibility in a disagreement or plan."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Both people share responsibility in a disagreement or plan.\""
   },
   {
    "prompt": "A fool and his money are soon parted.",
@@ -1635,7 +1820,8 @@ window.QUIZ_DATA = {
     "Consistent effort beats rushing.",
     "A wise man has money because he's careful."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"A wise man has money because he's careful.\""
   },
   {
    "prompt": "Don't put all your eggs in one basket.",
@@ -1645,7 +1831,8 @@ window.QUIZ_DATA = {
     "Don't risk everything on a single plan.",
     "Family bonds are stronger than other relationships."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Don't risk everything on a single plan.\""
   },
   {
    "prompt": "A watched pot never boils.",
@@ -1655,7 +1842,8 @@ window.QUIZ_DATA = {
     "It's better to stop a problem before it happens.",
     "You won't grow old keeping busy."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Move on to solve the next problem.\""
   },
   {
    "prompt": "Every cloud has a silver lining.",
@@ -1665,7 +1853,8 @@ window.QUIZ_DATA = {
     "Some work only when the boss watches.",
     "Whatever you do will lead to some result, good or bad."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Even hard times bring something good.\""
   },
   {
    "prompt": "Better safe than sorry.",
@@ -1675,7 +1864,8 @@ window.QUIZ_DATA = {
     "Home is the most comfortable place there is.",
     "Doing something late is better than not doing it at all."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"It's wiser to be cautious than to regret it later.\""
   },
   {
    "prompt": "Like father like son.",
@@ -1685,7 +1875,8 @@ window.QUIZ_DATA = {
     "Don't ruin relationships you might need later.",
     "Accept a gift graciously."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Men emulate their fathers.\""
   },
   {
    "prompt": "Once bitten, twice shy.",
@@ -1695,7 +1886,8 @@ window.QUIZ_DATA = {
     "It's better to stop a problem before it happens.",
     "Don't change something that's already working fine."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"A bad experience makes you cautious the next time.\""
   },
   {
    "prompt": "Actions speak louder than words.",
@@ -1705,7 +1897,8 @@ window.QUIZ_DATA = {
     "Accept a gift graciously.",
     "Responding to a bad act with another bad act doesn't fix it."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"What you do matters more than what you say.\""
   },
   {
    "prompt": "First come, first served.",
@@ -1715,7 +1908,8 @@ window.QUIZ_DATA = {
     "Whoever arrives first gets the benefit.",
     "What's worthless to one person may be valuable to another."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Whoever arrives first gets the benefit.\""
   },
   {
    "prompt": "Charity begins at home.",
@@ -1725,7 +1919,8 @@ window.QUIZ_DATA = {
     "Not spending is the same as earning money.",
     "Different experiences make life more interesting."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"You should look after your own family before helping others.\""
   },
   {
    "prompt": "Least said, soonest mended.",
@@ -1735,7 +1930,8 @@ window.QUIZ_DATA = {
     "Working together produces better ideas.",
     "If nothing bad has been reported, things are probably fine."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Saying less about a problem helps it resolve faster.\""
   },
   {
    "prompt": "There's more than one way to skin a cat.",
@@ -1745,7 +1941,8 @@ window.QUIZ_DATA = {
     "It's better to stop a problem before it happens.",
     "Words and ideas can be more powerful than force."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"There are multiple ways to solve the same problem.\""
   },
   {
    "prompt": "The apple doesn't fall far from the tree.",
@@ -1755,7 +1952,8 @@ window.QUIZ_DATA = {
     "Don't change something that's already working fine.",
     "Children often resemble their parents."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Children often resemble their parents.\""
   },
   {
    "prompt": "Laughter is the best medicine.",
@@ -1765,7 +1963,8 @@ window.QUIZ_DATA = {
     "Don't ruin relationships you might need later.",
     "Bad things sometimes can get worse."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"Laughing helps you feel better.\""
   },
   {
    "prompt": "When in Rome, do as the Romans do.",
@@ -1775,7 +1974,8 @@ window.QUIZ_DATA = {
     "Follow the customs of the place you're in.",
     "Sometimes it's best to say nothing at all."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Follow the customs of the place you're in.\""
   },
   {
    "prompt": "Practice makes perfect.",
@@ -1785,7 +1985,8 @@ window.QUIZ_DATA = {
     "Repeated effort improves skill.",
     "You must take some risk to gain any reward."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Repeated effort improves skill.\""
   },
   {
    "prompt": "He who laughs last - laughs best.",
@@ -1795,7 +1996,8 @@ window.QUIZ_DATA = {
     "Whoever funds something gets to control how it's done.",
     "Many people talk without any action."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Don't gloat too soon.\""
   },
   {
    "prompt": "The pen is mightier than the sword.",
@@ -1805,7 +2007,8 @@ window.QUIZ_DATA = {
     "Need drives people to find creative solutions.",
     "Words and ideas can be more powerful than force."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Words and ideas can be more powerful than force.\""
   },
   {
    "prompt": "Time heals all wounds.",
@@ -1815,7 +2018,8 @@ window.QUIZ_DATA = {
     "Need drives people to find creative solutions.",
     "Emotional pain fades with time."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Emotional pain fades with time.\""
   },
   {
    "prompt": "Good things come to those who wait.",
@@ -1825,7 +2029,8 @@ window.QUIZ_DATA = {
     "What's worthless to one person may be valuable to another.",
     "Move on to solve the next problem."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Patience is often rewarded.\""
   },
   {
    "prompt": "One good turn deserves another.",
@@ -1835,7 +2040,8 @@ window.QUIZ_DATA = {
     "Kindness should be returned with kindness.",
     "You can only help those who want help."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Kindness should be returned with kindness.\""
   },
   {
    "prompt": "Slow and steady wins the race.",
@@ -1845,7 +2051,8 @@ window.QUIZ_DATA = {
     "A true friend is one who helps you when you're in trouble.",
     "Consistent effort beats rushing."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Consistent effort beats rushing.\""
   },
   {
    "prompt": "No news is good news.",
@@ -1855,7 +2062,8 @@ window.QUIZ_DATA = {
     "Responding to a bad act with another bad act doesn't fix it.",
     "You won't grow old keeping busy."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"If nothing bad has been reported, things are probably fine.\""
   },
   {
    "prompt": "Don't cry over spilt milk.",
@@ -1865,7 +2073,8 @@ window.QUIZ_DATA = {
     "Don't risk everything on a single plan.",
     "Home is the most comfortable place there is."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"That problem is over - move on.\""
   },
   {
    "prompt": "You can't teach an old dog new tricks.",
@@ -1875,7 +2084,8 @@ window.QUIZ_DATA = {
     "It's hard for people to learn new habits late in life.",
     "Move on to solve the next problem."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"It's hard for people to learn new habits late in life.\""
   },
   {
    "prompt": "A rolling stone gathers no moss.",
@@ -1885,7 +2095,8 @@ window.QUIZ_DATA = {
     "Bad things sometimes can get worse.",
     "You won't grow old keeping busy."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"You won't grow old keeping busy.\""
   },
   {
    "prompt": "Cleanliness is next to godliness.",
@@ -1895,7 +2106,8 @@ window.QUIZ_DATA = {
     "Big achievements take time.",
     "You should look after your own family before helping others."
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "It means: \"Being clean is seen as a sign of good character.\""
   },
   {
    "prompt": "Too many cooks spoil the broth.",
@@ -1905,7 +2117,8 @@ window.QUIZ_DATA = {
     "Doing something late is better than not doing it at all.",
     "Kindness should be returned with kindness."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"One person needs to be in charge.\""
   },
   {
    "prompt": "Honesty is the best policy.",
@@ -1915,7 +2128,8 @@ window.QUIZ_DATA = {
     "Telling the truth pays off in the end.",
     "One person needs to be in charge."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Telling the truth pays off in the end.\""
   },
   {
    "prompt": "Never look a gift horse in the mouth.",
@@ -1925,7 +2139,8 @@ window.QUIZ_DATA = {
     "Accept a gift graciously.",
     "Whoever arrives first gets the benefit."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Accept a gift graciously.\""
   },
   {
    "prompt": "Grass doesn't grow on a racetrack.",
@@ -1935,7 +2150,8 @@ window.QUIZ_DATA = {
     "You won't grow old keeping busy.",
     "Even hard times bring something good."
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "It means: \"A busy man's desk has no dust on it.\""
   },
   {
    "prompt": "Live and let live.",
@@ -1945,7 +2161,8 @@ window.QUIZ_DATA = {
     "Laughing helps you feel better.",
     "Accept other people's choices as you want your own accepted."
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "It means: \"Accept other people's choices as you want your own accepted.\""
   },
   {
    "prompt": "Curiosity killed the cat.",
@@ -1955,63 +2172,69 @@ window.QUIZ_DATA = {
     "Being too nosy can get you into trouble.",
     "Eating healthily helps prevent illness."
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "It means: \"Being too nosy can get you into trouble.\""
   }
  ],
  "plurals": [
   {
    "prompt": "dish",
    "options": [
-    "dishs",
+    "dish's",
     "dishes",
     "stars",
-    "dish's"
+    "dishs"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "alumnus",
    "options": [
-    "alumnuss",
-    "alumni",
     "alumnuses",
-    "alumnus's"
+    "alumni",
+    "alumnus's",
+    "alumnuss"
    ],
    "correctIndex": 1,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "monkey",
    "options": [
     "monkeys",
+    "monkey's",
     "monkeies",
-    "monkeyes",
-    "monkey's"
+    "monkeyes"
    ],
    "correctIndex": 0,
+   "explanation": "Words ending in a vowel plus -y just add -s — the y doesn't change.",
    "rule": "Vowel+Y -s"
   },
   {
    "prompt": "nucleus",
    "options": [
-    "nucleuss",
+    "nucleus's",
     "nuclei",
-    "nucleuses",
-    "nucleus's"
+    "nucleuss",
+    "nucleuses"
    ],
    "correctIndex": 1,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "potato",
    "options": [
-    "potato's",
     "potatos",
+    "potato's",
     "potatoes",
     "zoos"
    ],
    "correctIndex": 2,
+   "explanation": "Some words ending in -o add -es, not just -s.",
    "rule": "-o to -oes"
   },
   {
@@ -2023,83 +2246,91 @@ window.QUIZ_DATA = {
     "radios"
    ],
    "correctIndex": 0,
+   "explanation": "Some words ending in -o simply add -s.",
    "rule": "-o to -os"
   },
   {
    "prompt": "appendix",
    "options": [
     "appendices",
-    "appendix's",
+    "appendixs",
     "appendixes",
-    "appendixs"
+    "appendix's"
    ],
    "correctIndex": 0,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "glass",
    "options": [
-    "glasss",
     "glass's",
+    "glasss",
     "glasses",
     "indices"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "species",
    "options": [
-    "species's",
-    "specieses",
     "speciess",
+    "specieses",
+    "species's",
     "species"
    ],
    "correctIndex": 3,
+   "explanation": "This word stays exactly the same in the singular and plural.",
    "rule": "Unchanged"
   },
   {
    "prompt": "tray",
    "options": [
     "trays",
-    "trayes",
+    "tray's",
     "traies",
-    "tray's"
+    "trayes"
    ],
    "correctIndex": 0,
+   "explanation": "Words ending in a vowel plus -y just add -s — the y doesn't change.",
    "rule": "Vowel+Y -s"
   },
   {
    "prompt": "aircraft",
    "options": [
-    "aircraft's",
-    "aircraft",
     "aircraftes",
+    "aircraft",
+    "aircraft's",
     "aircrafts"
    ],
    "correctIndex": 1,
+   "explanation": "This word stays exactly the same in the singular and plural.",
    "rule": "Unchanged"
   },
   {
    "prompt": "army",
    "options": [
-    "armyes",
     "armys",
+    "armyes",
     "army's",
     "armies"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
    "prompt": "cactus",
    "options": [
     "cacti",
-    "cactuses",
     "cactus's",
-    "cactuss"
+    "cactuss",
+    "cactuses"
    ],
    "correctIndex": 0,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
@@ -2111,28 +2342,31 @@ window.QUIZ_DATA = {
     "shoees"
    ],
    "correctIndex": 0,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "basis",
    "options": [
+    "basiss",
     "basis's",
     "basises",
-    "basiss",
     "bases"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in -is change to -es in the plural.",
    "rule": "-is to -es"
   },
   {
    "prompt": "country",
    "options": [
     "country's",
-    "countrys",
+    "countryes",
     "countries",
-    "countryes"
+    "countrys"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
@@ -2144,6 +2378,7 @@ window.QUIZ_DATA = {
     "fish"
    ],
    "correctIndex": 3,
+   "explanation": "This word stays exactly the same in the singular and plural.",
    "rule": "Unchanged"
   },
   {
@@ -2151,32 +2386,35 @@ window.QUIZ_DATA = {
    "options": [
     "matches",
     "kisses",
-    "kisss",
-    "kiss's"
+    "kiss's",
+    "kisss"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "series",
    "options": [
-    "series's",
     "serieses",
+    "series's",
     "series",
     "seriess"
    ],
    "correctIndex": 2,
+   "explanation": "This word stays exactly the same in the singular and plural.",
    "rule": "Unchanged"
   },
   {
    "prompt": "car",
    "options": [
     "cars",
-    "cares",
     "car's",
+    "cares",
     "theses"
    ],
    "correctIndex": 0,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
@@ -2188,6 +2426,7 @@ window.QUIZ_DATA = {
     "vetoes"
    ],
    "correctIndex": 3,
+   "explanation": "Some words ending in -o add -es, not just -s.",
    "rule": "-o to -oes"
   },
   {
@@ -2199,6 +2438,7 @@ window.QUIZ_DATA = {
     "crisiss"
    ],
    "correctIndex": 0,
+   "explanation": "Words ending in -is change to -es in the plural.",
    "rule": "-is to -es"
   },
   {
@@ -2207,9 +2447,10 @@ window.QUIZ_DATA = {
     "els",
     "elfs",
     "elves",
-    "elfes"
+    "elf's"
    ],
    "correctIndex": 2,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
@@ -2221,50 +2462,55 @@ window.QUIZ_DATA = {
     "lamp's"
    ],
    "correctIndex": 0,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "fox",
    "options": [
-    "fox's",
     "foxs",
+    "fox's",
     "foxes",
     "feet"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "tooth",
    "options": [
-    "toothes",
+    "tooths",
     "tooth's",
     "teeth",
-    "tooths"
+    "toothes"
    ],
    "correctIndex": 2,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
    "prompt": "chair",
    "options": [
     "chairs",
-    "chair's",
+    "chaires",
     "crises",
-    "chaires"
+    "chair's"
    ],
    "correctIndex": 0,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "family",
    "options": [
-    "familys",
+    "familyes",
     "families",
     "family's",
-    "familyes"
+    "familys"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
@@ -2276,6 +2522,7 @@ window.QUIZ_DATA = {
     "pianos"
    ],
    "correctIndex": 3,
+   "explanation": "Some words ending in -o simply add -s.",
    "rule": "-o to -os"
   },
   {
@@ -2283,10 +2530,11 @@ window.QUIZ_DATA = {
    "options": [
     "days",
     "dayes",
-    "daies",
-    "day's"
+    "day's",
+    "daies"
    ],
    "correctIndex": 0,
+   "explanation": "Words ending in a vowel plus -y just add -s — the y doesn't change.",
    "rule": "Vowel+Y -s"
   },
   {
@@ -2294,10 +2542,11 @@ window.QUIZ_DATA = {
    "options": [
     "ladyes",
     "ladies",
-    "ladys",
-    "lady's"
+    "lady's",
+    "ladys"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
@@ -2309,61 +2558,67 @@ window.QUIZ_DATA = {
     "window's"
    ],
    "correctIndex": 0,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "child",
    "options": [
-    "child's",
+    "childs",
     "children",
-    "childes",
-    "childs"
+    "child's",
+    "childes"
    ],
    "correctIndex": 1,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
    "prompt": "person",
    "options": [
-    "person's",
     "persons",
     "persones",
+    "person's",
     "people"
    ],
    "correctIndex": 3,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
    "prompt": "mouse",
    "options": [
     "mice",
-    "mousees",
     "mouse's",
-    "mouses"
+    "mouses",
+    "mousees"
    ],
    "correctIndex": 0,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
    "prompt": "ox",
    "options": [
     "oxs",
-    "ox's",
     "oxes",
+    "ox's",
     "oxen"
    ],
    "correctIndex": 3,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
    "prompt": "bus",
    "options": [
-    "buss",
-    "deer",
     "bus's",
+    "deer",
+    "buss",
     "buses"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
@@ -2375,6 +2630,7 @@ window.QUIZ_DATA = {
     "volcanoes"
    ],
    "correctIndex": 3,
+   "explanation": "Some words ending in -o add -es, not just -s.",
    "rule": "-o to -oes"
   },
   {
@@ -2386,61 +2642,67 @@ window.QUIZ_DATA = {
     "class's"
    ],
    "correctIndex": 0,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "half",
    "options": [
-    "halfes",
+    "hals",
     "half's",
     "halves",
-    "hals"
+    "halfes"
    ],
    "correctIndex": 2,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "louse",
    "options": [
-    "louse's",
+    "louses",
     "lice",
     "lousees",
-    "louses"
+    "louse's"
    ],
    "correctIndex": 1,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
    "prompt": "leaf",
    "options": [
-    "leafs",
-    "leaves",
     "leaf's",
-    "leas"
+    "leaves",
+    "leafs",
+    "leafes"
    ],
    "correctIndex": 1,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "toy",
    "options": [
-    "toyes",
     "toy's",
     "toies",
+    "toyes",
     "toys"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in a vowel plus -y just add -s — the y doesn't change.",
    "rule": "Vowel+Y -s"
   },
   {
    "prompt": "brush",
    "options": [
-    "brush's",
     "brushs",
+    "brush's",
     "echoes",
     "brushes"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
@@ -2452,17 +2714,19 @@ window.QUIZ_DATA = {
     "armies"
    ],
    "correctIndex": 2,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "sheep",
    "options": [
-    "sheeps",
+    "sheepes",
     "sheep",
     "sheep's",
-    "sheepes"
+    "sheeps"
    ],
    "correctIndex": 1,
+   "explanation": "This word stays exactly the same in the singular and plural.",
    "rule": "Unchanged"
   },
   {
@@ -2474,17 +2738,19 @@ window.QUIZ_DATA = {
     "stars"
    ],
    "correctIndex": 3,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "analysis",
    "options": [
-    "analysiss",
     "analysises",
+    "analysiss",
     "analysis's",
     "analyses"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in -is change to -es in the plural.",
    "rule": "-is to -es"
   },
   {
@@ -2496,61 +2762,67 @@ window.QUIZ_DATA = {
     "phenomenones"
    ],
    "correctIndex": 2,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "baby",
    "options": [
-    "baby's",
     "babys",
+    "babyes",
     "babies",
-    "babyes"
+    "baby's"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
    "prompt": "match",
    "options": [
     "glasses",
-    "match's",
+    "matchs",
     "matches",
-    "matchs"
+    "match's"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "syllabus",
    "options": [
-    "syllabuss",
-    "syllabuses",
     "syllabus's",
+    "syllabuses",
+    "syllabuss",
     "syllabi"
    ],
    "correctIndex": 3,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "bacterium",
    "options": [
     "bacteria",
+    "bacteriums",
     "bacterium's",
-    "bacteriumes",
-    "bacteriums"
+    "bacteriumes"
    ],
    "correctIndex": 0,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "woman",
    "options": [
+    "womans",
     "womanes",
     "woman's",
-    "womans",
     "women"
    ],
    "correctIndex": 3,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
@@ -2558,43 +2830,47 @@ window.QUIZ_DATA = {
    "options": [
     "buses",
     "watches",
-    "watchs",
-    "watch's"
+    "watch's",
+    "watchs"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "vertebra",
    "options": [
-    "vertebras",
-    "vertebrae",
     "vertebraes",
+    "vertebrae",
+    "vertebras",
     "vertebra's"
    ],
    "correctIndex": 1,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "puppy",
    "options": [
-    "puppys",
-    "puppies",
     "puppy's",
-    "puppyes"
+    "puppies",
+    "puppyes",
+    "puppys"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
    "prompt": "man",
    "options": [
+    "man's",
     "mans",
-    "manes",
     "men",
-    "man's"
+    "manes"
    ],
    "correctIndex": 2,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
@@ -2606,6 +2882,7 @@ window.QUIZ_DATA = {
     "city's"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
@@ -2617,28 +2894,31 @@ window.QUIZ_DATA = {
     "wolf's"
    ],
    "correctIndex": 2,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "fly",
    "options": [
     "flys",
-    "fly's",
     "flyes",
+    "fly's",
     "flies"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
    "prompt": "theory",
    "options": [
-    "theoryes",
+    "theorys",
     "theory's",
     "theories",
-    "theorys"
+    "theoryes"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
@@ -2650,6 +2930,7 @@ window.QUIZ_DATA = {
     "gooses"
    ],
    "correctIndex": 0,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
@@ -2661,6 +2942,7 @@ window.QUIZ_DATA = {
     "tomatos"
    ],
    "correctIndex": 0,
+   "explanation": "Some words ending in -o add -es, not just -s.",
    "rule": "-o to -oes"
   },
   {
@@ -2672,50 +2954,55 @@ window.QUIZ_DATA = {
     "echo's"
    ],
    "correctIndex": 2,
+   "explanation": "Some words ending in -o add -es, not just -s.",
    "rule": "-o to -oes"
   },
   {
    "prompt": "medium",
    "options": [
+    "mediumes",
     "mediums",
     "medium's",
-    "mediumes",
     "media"
    ],
    "correctIndex": 3,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "oasis",
    "options": [
-    "oasises",
     "oasis's",
+    "oasises",
     "oases",
     "oasiss"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in -is change to -es in the plural.",
    "rule": "-is to -es"
   },
   {
    "prompt": "thesis",
    "options": [
-    "thesis's",
-    "theses",
     "thesiss",
-    "thesises"
+    "theses",
+    "thesises",
+    "thesis's"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in -is change to -es in the plural.",
    "rule": "-is to -es"
   },
   {
    "prompt": "criterion",
    "options": [
-    "criterions",
-    "criteriones",
     "criterion's",
+    "criteriones",
+    "criterions",
     "criteria"
    ],
    "correctIndex": 3,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
@@ -2727,6 +3014,7 @@ window.QUIZ_DATA = {
     "axes"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
@@ -2738,28 +3026,31 @@ window.QUIZ_DATA = {
     "wishes"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "wife",
    "options": [
-    "wife's",
-    "wifes",
     "wifees",
+    "wis",
+    "wifes",
     "wives"
    ],
    "correctIndex": 3,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "story",
    "options": [
     "stories",
+    "storyes",
     "story's",
-    "storys",
-    "storyes"
+    "storys"
    ],
    "correctIndex": 0,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
@@ -2771,50 +3062,55 @@ window.QUIZ_DATA = {
     "buses"
    ],
    "correctIndex": 1,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "calf",
    "options": [
-    "calfs",
-    "calf's",
+    "calfes",
+    "cals",
     "calves",
-    "calfes"
+    "calfs"
    ],
    "correctIndex": 2,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "foot",
    "options": [
-    "footes",
+    "foots",
     "foot's",
     "feet",
-    "foots"
+    "footes"
    ],
    "correctIndex": 2,
+   "explanation": "This is an irregular plural that doesn't follow a standard spelling rule.",
    "rule": "Irregular"
   },
   {
    "prompt": "fungus",
    "options": [
-    "fungus's",
+    "funguss",
     "fungi",
     "funguses",
-    "funguss"
+    "fungus's"
    ],
    "correctIndex": 1,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
    "prompt": "photo",
    "options": [
-    "photoes",
+    "photo's",
     "photos",
     "echoes",
-    "photo's"
+    "photoes"
    ],
    "correctIndex": 1,
+   "explanation": "Some words ending in -o simply add -s.",
    "rule": "-o to -os"
   },
   {
@@ -2822,32 +3118,35 @@ window.QUIZ_DATA = {
    "options": [
     "trees",
     "lamps",
-    "treees",
-    "tree's"
+    "tree's",
+    "treees"
    ],
    "correctIndex": 0,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "library",
    "options": [
-    "library's",
-    "librarys",
     "libraryes",
+    "librarys",
+    "library's",
     "libraries"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
    "prompt": "life",
    "options": [
-    "lifes",
     "lifees",
     "lis",
+    "life's",
     "lives"
    ],
    "correctIndex": 3,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
@@ -2859,6 +3158,7 @@ window.QUIZ_DATA = {
     "bases"
    ],
    "correctIndex": 0,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
@@ -2870,17 +3170,19 @@ window.QUIZ_DATA = {
     "phones"
    ],
    "correctIndex": 3,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "larva",
    "options": [
-    "larvas",
-    "larvae",
     "larvaes",
+    "larvae",
+    "larvas",
     "larva's"
    ],
    "correctIndex": 1,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
@@ -2888,10 +3190,11 @@ window.QUIZ_DATA = {
    "options": [
     "boys",
     "boy's",
-    "boies",
-    "boyes"
+    "boyes",
+    "boies"
    ],
    "correctIndex": 0,
+   "explanation": "Words ending in a vowel plus -y just add -s — the y doesn't change.",
    "rule": "Vowel+Y -s"
   },
   {
@@ -2903,50 +3206,55 @@ window.QUIZ_DATA = {
     "cat's"
    ],
    "correctIndex": 0,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "key",
    "options": [
-    "keyes",
     "keies",
+    "key's",
     "keys",
-    "key's"
+    "keyes"
    ],
    "correctIndex": 2,
+   "explanation": "Words ending in a vowel plus -y just add -s — the y doesn't change.",
    "rule": "Vowel+Y -s"
   },
   {
    "prompt": "axis",
    "options": [
-    "axises",
     "axis's",
+    "axises",
     "axiss",
     "axes"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in -is change to -es in the plural.",
    "rule": "-is to -es"
   },
   {
    "prompt": "book",
    "options": [
-    "book's",
+    "bookes",
     "books",
     "keys",
-    "bookes"
+    "book's"
    ],
    "correctIndex": 1,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "party",
    "options": [
+    "partys",
     "party's",
     "partyes",
-    "partys",
     "parties"
    ],
    "correctIndex": 3,
+   "explanation": "Words ending in a consonant plus -y change the y to -ies.",
    "rule": "Consonant+Y -ies"
   },
   {
@@ -2958,28 +3266,31 @@ window.QUIZ_DATA = {
     "deeres"
    ],
    "correctIndex": 2,
+   "explanation": "This word stays exactly the same in the singular and plural.",
    "rule": "Unchanged"
   },
   {
    "prompt": "thief",
    "options": [
-    "thies",
-    "thief's",
+    "thiefes",
     "thiefs",
+    "thief's",
     "thieves"
    ],
    "correctIndex": 3,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "radio",
    "options": [
-    "radio's",
     "radioes",
+    "radio's",
     "radios",
     "vetoes"
    ],
    "correctIndex": 2,
+   "explanation": "Some words ending in -o simply add -s.",
    "rule": "-o to -os"
   },
   {
@@ -2987,10 +3298,11 @@ window.QUIZ_DATA = {
    "options": [
     "data",
     "datumes",
-    "datum's",
-    "datums"
+    "datums",
+    "datum's"
    ],
    "correctIndex": 0,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
@@ -3002,17 +3314,19 @@ window.QUIZ_DATA = {
     "videos"
    ],
    "correctIndex": 3,
+   "explanation": "Some words ending in -o simply add -s.",
    "rule": "-o to -os"
   },
   {
    "prompt": "index",
    "options": [
     "indexs",
-    "index's",
+    "indexes",
     "indices",
-    "indexes"
+    "index's"
    ],
    "correctIndex": 2,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
@@ -3020,21 +3334,23 @@ window.QUIZ_DATA = {
    "options": [
     "knife's",
     "knives",
-    "knis",
+    "knifes",
     "knifees"
    ],
    "correctIndex": 1,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "curriculum",
    "options": [
-    "curriculum's",
     "curriculumes",
     "curriculums",
+    "curriculum's",
     "curricula"
    ],
    "correctIndex": 3,
+   "explanation": "This word keeps its original Latin or Greek plural form.",
    "rule": "Latin/Greek"
   },
   {
@@ -3046,50 +3362,55 @@ window.QUIZ_DATA = {
     "box's"
    ],
    "correctIndex": 1,
+   "explanation": "Words ending in a hissing sound (-s, -z, -x, -ch, -sh) add -es, not just -s.",
    "rule": "Hissing -es"
   },
   {
    "prompt": "loaf",
    "options": [
     "loafs",
-    "loaf's",
+    "loas",
     "loaves",
-    "loafes"
+    "loaf's"
    ],
    "correctIndex": 2,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "house",
    "options": [
-    "house's",
+    "housees",
     "houses",
     "wolves",
-    "housees"
+    "house's"
    ],
    "correctIndex": 1,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "shelf",
    "options": [
-    "shelfes",
+    "shelfs",
     "shelves",
-    "shels",
-    "shelfs"
+    "shelf's",
+    "shels"
    ],
    "correctIndex": 1,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
    "prompt": "hero",
    "options": [
-    "hero's",
-    "foxes",
     "heros",
+    "foxes",
+    "hero's",
     "heroes"
    ],
    "correctIndex": 3,
+   "explanation": "Some words ending in -o add -es, not just -s.",
    "rule": "-o to -oes"
   },
   {
@@ -3101,17 +3422,19 @@ window.QUIZ_DATA = {
     "door's"
    ],
    "correctIndex": 2,
+   "explanation": "Most nouns simply add -s to form the plural.",
    "rule": "Regular -s"
   },
   {
    "prompt": "scarf",
    "options": [
     "scarves",
-    "scarfes",
     "scarf's",
-    "scars"
+    "scars",
+    "scarfs"
    ],
    "correctIndex": 0,
+   "explanation": "Many words ending in -f or -fe change to -ves in the plural.",
    "rule": "-f/-fe to -ves"
   },
   {
@@ -3123,17 +3446,19 @@ window.QUIZ_DATA = {
     "zooes"
    ],
    "correctIndex": 1,
+   "explanation": "Some words ending in -o simply add -s.",
    "rule": "-o to -os"
   },
   {
    "prompt": "moose",
    "options": [
-    "moosees",
     "mooses",
+    "moosees",
     "moose's",
     "moose"
    ],
    "correctIndex": 3,
+   "explanation": "This word stays exactly the same in the singular and plural.",
    "rule": "Unchanged"
   }
  ],
@@ -3146,7 +3471,8 @@ window.QUIZ_DATA = {
     "o",
     "e"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'p' in \"pneumonia\" is silent — it isn't pronounced."
   },
   {
    "prompt": "build",
@@ -3156,7 +3482,8 @@ window.QUIZ_DATA = {
     "b",
     "d"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'i' in \"build\" is silent — it isn't pronounced."
   },
   {
    "prompt": "feign",
@@ -3166,7 +3493,8 @@ window.QUIZ_DATA = {
     "f",
     "g"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'g' in \"feign\" is silent — it isn't pronounced."
   },
   {
    "prompt": "lacquer",
@@ -3176,7 +3504,8 @@ window.QUIZ_DATA = {
     "q",
     "a"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'c' in \"lacquer\" is silent — it isn't pronounced."
   },
   {
    "prompt": "whole",
@@ -3186,7 +3515,8 @@ window.QUIZ_DATA = {
     "e",
     "w"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'w' in \"whole\" is silent — it isn't pronounced."
   },
   {
    "prompt": "high",
@@ -3196,7 +3526,8 @@ window.QUIZ_DATA = {
     "h",
     "gh"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'gh' in \"high\" is silent — it isn't pronounced."
   },
   {
    "prompt": "coup",
@@ -3206,7 +3537,8 @@ window.QUIZ_DATA = {
     "u",
     "p"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'p' in \"coup\" is silent — it isn't pronounced."
   },
   {
    "prompt": "champagne",
@@ -3216,7 +3548,8 @@ window.QUIZ_DATA = {
     "p",
     "c"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'g' in \"champagne\" is silent — it isn't pronounced."
   },
   {
    "prompt": "whom",
@@ -3226,7 +3559,8 @@ window.QUIZ_DATA = {
     "h",
     "w"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'w' in \"whom\" is silent — it isn't pronounced."
   },
   {
    "prompt": "know",
@@ -3236,7 +3570,8 @@ window.QUIZ_DATA = {
     "k",
     "o"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'k' in \"know\" is silent — it isn't pronounced."
   },
   {
    "prompt": "scissors",
@@ -3246,7 +3581,8 @@ window.QUIZ_DATA = {
     "c",
     "o"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'c' in \"scissors\" is silent — it isn't pronounced."
   },
   {
    "prompt": "scene",
@@ -3256,7 +3592,8 @@ window.QUIZ_DATA = {
     "n",
     "e"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'c' in \"scene\" is silent — it isn't pronounced."
   },
   {
    "prompt": "knave",
@@ -3266,7 +3603,8 @@ window.QUIZ_DATA = {
     "v",
     "n"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'k' in \"knave\" is silent — it isn't pronounced."
   },
   {
    "prompt": "gnaw",
@@ -3276,7 +3614,8 @@ window.QUIZ_DATA = {
     "w",
     "a"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'g' in \"gnaw\" is silent — it isn't pronounced."
   },
   {
    "prompt": "subpoena",
@@ -3286,7 +3625,8 @@ window.QUIZ_DATA = {
     "p",
     "s"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'p' in \"subpoena\" is silent — it isn't pronounced."
   },
   {
    "prompt": "two",
@@ -3296,7 +3636,8 @@ window.QUIZ_DATA = {
     "w",
     "b"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'w' in \"two\" is silent — it isn't pronounced."
   },
   {
    "prompt": "chimney",
@@ -3306,7 +3647,8 @@ window.QUIZ_DATA = {
     "y",
     "h"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'h' in \"chimney\" is silent — it isn't pronounced."
   },
   {
    "prompt": "castle",
@@ -3316,7 +3658,8 @@ window.QUIZ_DATA = {
     "c",
     "s"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 't' in \"castle\" is silent — it isn't pronounced."
   },
   {
    "prompt": "knead",
@@ -3326,7 +3669,8 @@ window.QUIZ_DATA = {
     "k",
     "a"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'k' in \"knead\" is silent — it isn't pronounced."
   },
   {
    "prompt": "sandwich",
@@ -3336,7 +3680,8 @@ window.QUIZ_DATA = {
     "s",
     "i"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'd' in \"sandwich\" is silent — it isn't pronounced."
   },
   {
    "prompt": "cupboard",
@@ -3346,7 +3691,8 @@ window.QUIZ_DATA = {
     "d",
     "u"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'p' in \"cupboard\" is silent — it isn't pronounced."
   },
   {
    "prompt": "womb",
@@ -3356,7 +3702,8 @@ window.QUIZ_DATA = {
     "o",
     "m"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'b' in \"womb\" is silent — it isn't pronounced."
   },
   {
    "prompt": "ballet",
@@ -3366,7 +3713,8 @@ window.QUIZ_DATA = {
     "a",
     "l"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 't' in \"ballet\" is silent — it isn't pronounced."
   },
   {
    "prompt": "muscle",
@@ -3376,7 +3724,8 @@ window.QUIZ_DATA = {
     "u",
     "l"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'c' in \"muscle\" is silent — it isn't pronounced."
   },
   {
    "prompt": "whose",
@@ -3386,7 +3735,8 @@ window.QUIZ_DATA = {
     "e",
     "h"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'w' in \"whose\" is silent — it isn't pronounced."
   },
   {
    "prompt": "khaki",
@@ -3396,7 +3746,8 @@ window.QUIZ_DATA = {
     "a",
     "i"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'k' in \"khaki\" is silent — it isn't pronounced."
   },
   {
    "prompt": "lamb",
@@ -3406,7 +3757,8 @@ window.QUIZ_DATA = {
     "m",
     "l"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'b' in \"lamb\" is silent — it isn't pronounced."
   },
   {
    "prompt": "jeopardy",
@@ -3416,7 +3768,8 @@ window.QUIZ_DATA = {
     "o",
     "j"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'a' in \"jeopardy\" is silent — it isn't pronounced."
   },
   {
    "prompt": "knock",
@@ -3426,7 +3779,8 @@ window.QUIZ_DATA = {
     "c",
     "o"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'k' in \"knock\" is silent — it isn't pronounced."
   },
   {
    "prompt": "might",
@@ -3436,7 +3790,8 @@ window.QUIZ_DATA = {
     "m",
     "gh"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'gh' in \"might\" is silent — it isn't pronounced."
   },
   {
    "prompt": "answer",
@@ -3446,7 +3801,8 @@ window.QUIZ_DATA = {
     "e",
     "w"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'w' in \"answer\" is silent — it isn't pronounced."
   },
   {
    "prompt": "ghost",
@@ -3456,7 +3812,8 @@ window.QUIZ_DATA = {
     "h",
     "g"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'h' in \"ghost\" is silent — it isn't pronounced."
   },
   {
    "prompt": "psychiatrist",
@@ -3466,7 +3823,8 @@ window.QUIZ_DATA = {
     "c",
     "r"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'p' in \"psychiatrist\" is silent — it isn't pronounced."
   },
   {
    "prompt": "more",
@@ -3476,7 +3834,8 @@ window.QUIZ_DATA = {
     "r",
     "e"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'e' in \"more\" is silent — it isn't pronounced."
   },
   {
    "prompt": "knee",
@@ -3486,7 +3845,8 @@ window.QUIZ_DATA = {
     "n",
     "e"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'k' in \"knee\" is silent — it isn't pronounced."
   },
   {
    "prompt": "climb",
@@ -3496,7 +3856,8 @@ window.QUIZ_DATA = {
     "c",
     "b"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'b' in \"climb\" is silent — it isn't pronounced."
   },
   {
    "prompt": "tongue",
@@ -3506,7 +3867,8 @@ window.QUIZ_DATA = {
     "o",
     "n"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'u' in \"tongue\" is silent — it isn't pronounced."
   },
   {
    "prompt": "diaphragm",
@@ -3516,7 +3878,8 @@ window.QUIZ_DATA = {
     "g",
     "a"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'g' in \"diaphragm\" is silent — it isn't pronounced."
   },
   {
    "prompt": "knack",
@@ -3526,7 +3889,8 @@ window.QUIZ_DATA = {
     "c",
     "n"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'k' in \"knack\" is silent — it isn't pronounced."
   },
   {
    "prompt": "sword",
@@ -3536,7 +3900,8 @@ window.QUIZ_DATA = {
     "o",
     "d"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'w' in \"sword\" is silent — it isn't pronounced."
   },
   {
    "prompt": "subtle",
@@ -3546,7 +3911,8 @@ window.QUIZ_DATA = {
     "e",
     "t"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'b' in \"subtle\" is silent — it isn't pronounced."
   },
   {
    "prompt": "hour",
@@ -3556,7 +3922,8 @@ window.QUIZ_DATA = {
     "h",
     "u"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'h' in \"hour\" is silent — it isn't pronounced."
   },
   {
    "prompt": "damn",
@@ -3566,7 +3933,8 @@ window.QUIZ_DATA = {
     "n",
     "d"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'n' in \"damn\" is silent — it isn't pronounced."
   },
   {
    "prompt": "racquet",
@@ -3576,7 +3944,8 @@ window.QUIZ_DATA = {
     "c",
     "e"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'c' in \"racquet\" is silent — it isn't pronounced."
   },
   {
    "prompt": "receipt",
@@ -3586,7 +3955,8 @@ window.QUIZ_DATA = {
     "p",
     "i"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'p' in \"receipt\" is silent — it isn't pronounced."
   },
   {
    "prompt": "drive",
@@ -3596,7 +3966,8 @@ window.QUIZ_DATA = {
     "e",
     "i"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'e' in \"drive\" is silent — it isn't pronounced."
   },
   {
    "prompt": "balk",
@@ -3606,7 +3977,8 @@ window.QUIZ_DATA = {
     "a",
     "k"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'l' in \"balk\" is silent — it isn't pronounced."
   },
   {
    "prompt": "mnemonic",
@@ -3616,7 +3988,8 @@ window.QUIZ_DATA = {
     "e",
     "c"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'm' in \"mnemonic\" is silent — it isn't pronounced."
   },
   {
    "prompt": "corps",
@@ -3626,7 +3999,8 @@ window.QUIZ_DATA = {
     "o",
     "r"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'p' in \"corps\" is silent — it isn't pronounced."
   },
   {
    "prompt": "column",
@@ -3636,7 +4010,8 @@ window.QUIZ_DATA = {
     "c",
     "n"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'n' in \"column\" is silent — it isn't pronounced."
   },
   {
    "prompt": "calf",
@@ -3646,7 +4021,8 @@ window.QUIZ_DATA = {
     "a",
     "c"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'l' in \"calf\" is silent — it isn't pronounced."
   },
   {
    "prompt": "bomb",
@@ -3656,7 +4032,8 @@ window.QUIZ_DATA = {
     "g",
     "b"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'b' in \"bomb\" is silent — it isn't pronounced."
   },
   {
    "prompt": "half",
@@ -3666,7 +4043,8 @@ window.QUIZ_DATA = {
     "l",
     "f"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'l' in \"half\" is silent — it isn't pronounced."
   },
   {
    "prompt": "autumn",
@@ -3676,7 +4054,8 @@ window.QUIZ_DATA = {
     "a",
     "u"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'n' in \"autumn\" is silent — it isn't pronounced."
   },
   {
    "prompt": "through",
@@ -3686,7 +4065,8 @@ window.QUIZ_DATA = {
     "h",
     "r"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'gh' in \"through\" is silent — it isn't pronounced."
   },
   {
    "prompt": "wrap",
@@ -3696,7 +4076,8 @@ window.QUIZ_DATA = {
     "w",
     "r"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'w' in \"wrap\" is silent — it isn't pronounced."
   },
   {
    "prompt": "crumb",
@@ -3706,7 +4087,8 @@ window.QUIZ_DATA = {
     "r",
     "b"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'b' in \"crumb\" is silent — it isn't pronounced."
   },
   {
    "prompt": "psychotic",
@@ -3716,7 +4098,8 @@ window.QUIZ_DATA = {
     "i",
     "p"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'p' in \"psychotic\" is silent — it isn't pronounced."
   },
   {
    "prompt": "calm",
@@ -3726,7 +4109,8 @@ window.QUIZ_DATA = {
     "c",
     "m"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'l' in \"calm\" is silent — it isn't pronounced."
   },
   {
    "prompt": "gnome",
@@ -3736,7 +4120,8 @@ window.QUIZ_DATA = {
     "n",
     "g"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'g' in \"gnome\" is silent — it isn't pronounced."
   },
   {
    "prompt": "hustle",
@@ -3746,7 +4131,8 @@ window.QUIZ_DATA = {
     "t",
     "u"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 't' in \"hustle\" is silent — it isn't pronounced."
   },
   {
    "prompt": "faux",
@@ -3756,7 +4142,8 @@ window.QUIZ_DATA = {
     "a",
     "u"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'x' in \"faux\" is silent — it isn't pronounced."
   },
   {
    "prompt": "thought",
@@ -3766,7 +4153,8 @@ window.QUIZ_DATA = {
     "h",
     "t"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'gh' in \"thought\" is silent — it isn't pronounced."
   },
   {
    "prompt": "condemn",
@@ -3776,7 +4164,8 @@ window.QUIZ_DATA = {
     "n",
     "m"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'n' in \"condemn\" is silent — it isn't pronounced."
   },
   {
    "prompt": "listen",
@@ -3786,7 +4175,8 @@ window.QUIZ_DATA = {
     "l",
     "n"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 't' in \"listen\" is silent — it isn't pronounced."
   },
   {
    "prompt": "comb",
@@ -3796,7 +4186,8 @@ window.QUIZ_DATA = {
     "c",
     "b"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'b' in \"comb\" is silent — it isn't pronounced."
   },
   {
    "prompt": "salmon",
@@ -3806,7 +4197,8 @@ window.QUIZ_DATA = {
     "m",
     "l"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'l' in \"salmon\" is silent — it isn't pronounced."
   },
   {
    "prompt": "fasten",
@@ -3816,7 +4208,8 @@ window.QUIZ_DATA = {
     "n",
     "s"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 't' in \"fasten\" is silent — it isn't pronounced."
   },
   {
    "prompt": "hymn",
@@ -3826,7 +4219,8 @@ window.QUIZ_DATA = {
     "y",
     "m"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'n' in \"hymn\" is silent — it isn't pronounced."
   },
   {
    "prompt": "gave",
@@ -3836,7 +4230,8 @@ window.QUIZ_DATA = {
     "a",
     "v"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'e' in \"gave\" is silent — it isn't pronounced."
   },
   {
    "prompt": "weigh",
@@ -3846,7 +4241,8 @@ window.QUIZ_DATA = {
     "e",
     "h"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'gh' in \"weigh\" is silent — it isn't pronounced."
   },
   {
    "prompt": "leopard",
@@ -3856,7 +4252,8 @@ window.QUIZ_DATA = {
     "r",
     "p"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'a' in \"leopard\" is silent — it isn't pronounced."
   },
   {
    "prompt": "February",
@@ -3866,7 +4263,8 @@ window.QUIZ_DATA = {
     "e",
     "r"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'r' in \"February\" is silent — it isn't pronounced."
   },
   {
    "prompt": "site",
@@ -3876,7 +4274,8 @@ window.QUIZ_DATA = {
     "s",
     "e"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'e' in \"site\" is silent — it isn't pronounced."
   },
   {
    "prompt": "business",
@@ -3886,7 +4285,8 @@ window.QUIZ_DATA = {
     "i",
     "b"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'i' in \"business\" is silent — it isn't pronounced."
   },
   {
    "prompt": "Sioux",
@@ -3896,7 +4296,8 @@ window.QUIZ_DATA = {
     "x",
     "i"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'x' in \"Sioux\" is silent — it isn't pronounced."
   },
   {
    "prompt": "corpuscle",
@@ -3906,7 +4307,8 @@ window.QUIZ_DATA = {
     "s",
     "p"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'c' in \"corpuscle\" is silent — it isn't pronounced."
   },
   {
    "prompt": "buy",
@@ -3916,7 +4318,8 @@ window.QUIZ_DATA = {
     "y",
     "g"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'u' in \"buy\" is silent — it isn't pronounced."
   },
   {
    "prompt": "board",
@@ -3926,7 +4329,8 @@ window.QUIZ_DATA = {
     "r",
     "a"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'a' in \"board\" is silent — it isn't pronounced."
   },
   {
    "prompt": "psalm",
@@ -3936,7 +4340,8 @@ window.QUIZ_DATA = {
     "l",
     "s"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'p' in \"psalm\" is silent — it isn't pronounced."
   },
   {
    "prompt": "writ",
@@ -3946,7 +4351,8 @@ window.QUIZ_DATA = {
     "i",
     "w"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'w' in \"writ\" is silent — it isn't pronounced."
   },
   {
    "prompt": "buoy",
@@ -3956,7 +4362,8 @@ window.QUIZ_DATA = {
     "y",
     "b"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'u' in \"buoy\" is silent — it isn't pronounced."
   },
   {
    "prompt": "solemn",
@@ -3966,7 +4373,8 @@ window.QUIZ_DATA = {
     "n",
     "l"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'n' in \"solemn\" is silent — it isn't pronounced."
   },
   {
    "prompt": "kneel",
@@ -3976,7 +4384,8 @@ window.QUIZ_DATA = {
     "l",
     "e"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'k' in \"kneel\" is silent — it isn't pronounced."
   },
   {
    "prompt": "daughter",
@@ -3986,7 +4395,8 @@ window.QUIZ_DATA = {
     "r",
     "h"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'gh' in \"daughter\" is silent — it isn't pronounced."
   },
   {
    "prompt": "hope",
@@ -3996,7 +4406,8 @@ window.QUIZ_DATA = {
     "e",
     "h"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'e' in \"hope\" is silent — it isn't pronounced."
   },
   {
    "prompt": "write",
@@ -4006,7 +4417,8 @@ window.QUIZ_DATA = {
     "w",
     "i"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'w' in \"write\" is silent — it isn't pronounced."
   },
   {
    "prompt": "debt",
@@ -4016,7 +4428,8 @@ window.QUIZ_DATA = {
     "b",
     "e"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'b' in \"debt\" is silent — it isn't pronounced."
   },
   {
    "prompt": "sign",
@@ -4026,7 +4439,8 @@ window.QUIZ_DATA = {
     "g",
     "n"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'g' in \"sign\" is silent — it isn't pronounced."
   },
   {
    "prompt": "psychotherapy",
@@ -4036,7 +4450,8 @@ window.QUIZ_DATA = {
     "s",
     "y"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'p' in \"psychotherapy\" is silent — it isn't pronounced."
   },
   {
    "prompt": "dumb",
@@ -4046,7 +4461,8 @@ window.QUIZ_DATA = {
     "u",
     "b"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'b' in \"dumb\" is silent — it isn't pronounced."
   },
   {
    "prompt": "light",
@@ -4056,7 +4472,8 @@ window.QUIZ_DATA = {
     "i",
     "h"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'gh' in \"light\" is silent — it isn't pronounced."
   },
   {
    "prompt": "thistle",
@@ -4066,7 +4483,8 @@ window.QUIZ_DATA = {
     "e",
     "i"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 't' in \"thistle\" is silent — it isn't pronounced."
   },
   {
    "prompt": "who",
@@ -4076,7 +4494,8 @@ window.QUIZ_DATA = {
     "o",
     "b"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'w' in \"who\" is silent — it isn't pronounced."
   },
   {
    "prompt": "guard",
@@ -4086,7 +4505,8 @@ window.QUIZ_DATA = {
     "u",
     "g"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'u' in \"guard\" is silent — it isn't pronounced."
   },
   {
    "prompt": "doubt",
@@ -4096,7 +4516,8 @@ window.QUIZ_DATA = {
     "u",
     "b"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'b' in \"doubt\" is silent — it isn't pronounced."
   },
   {
    "prompt": "phlegm",
@@ -4106,7 +4527,8 @@ window.QUIZ_DATA = {
     "p",
     "m"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'g' in \"phlegm\" is silent — it isn't pronounced."
   },
   {
    "prompt": "foreign",
@@ -4116,7 +4538,8 @@ window.QUIZ_DATA = {
     "g",
     "e"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'g' in \"foreign\" is silent — it isn't pronounced."
   },
   {
    "prompt": "right",
@@ -4126,7 +4549,8 @@ window.QUIZ_DATA = {
     "i",
     "h"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'gh' in \"right\" is silent — it isn't pronounced."
   },
   {
    "prompt": "yolk",
@@ -4136,7 +4560,8 @@ window.QUIZ_DATA = {
     "l",
     "k"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'l' in \"yolk\" is silent — it isn't pronounced."
   },
   {
    "prompt": "fight",
@@ -4146,7 +4571,8 @@ window.QUIZ_DATA = {
     "t",
     "i"
    ],
-   "correctIndex": 1
+   "correctIndex": 1,
+   "explanation": "The 'gh' in \"fight\" is silent — it isn't pronounced."
   },
   {
    "prompt": "clue",
@@ -4156,7 +4582,8 @@ window.QUIZ_DATA = {
     "e",
     "u"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'u' in \"clue\" is silent — it isn't pronounced."
   },
   {
    "prompt": "gnat",
@@ -4166,7 +4593,8 @@ window.QUIZ_DATA = {
     "g",
     "n"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'g' in \"gnat\" is silent — it isn't pronounced."
   },
   {
    "prompt": "bridge",
@@ -4176,7 +4604,8 @@ window.QUIZ_DATA = {
     "e",
     "i"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'e' in \"bridge\" is silent — it isn't pronounced."
   },
   {
    "prompt": "knowledge",
@@ -4186,7 +4615,8 @@ window.QUIZ_DATA = {
     "k",
     "n"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'k' in \"knowledge\" is silent — it isn't pronounced."
   },
   {
    "prompt": "gnash",
@@ -4196,7 +4626,8 @@ window.QUIZ_DATA = {
     "g",
     "a"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'g' in \"gnash\" is silent — it isn't pronounced."
   },
   {
    "prompt": "wrist",
@@ -4206,7 +4637,8 @@ window.QUIZ_DATA = {
     "w",
     "i"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'w' in \"wrist\" is silent — it isn't pronounced."
   },
   {
    "prompt": "knife",
@@ -4216,7 +4648,8 @@ window.QUIZ_DATA = {
     "n",
     "e"
    ],
-   "correctIndex": 0
+   "correctIndex": 0,
+   "explanation": "The 'k' in \"knife\" is silent — it isn't pronounced."
   },
   {
    "prompt": "scent",
@@ -4226,7 +4659,8 @@ window.QUIZ_DATA = {
     "c",
     "t"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'c' in \"scent\" is silent — it isn't pronounced."
   },
   {
    "prompt": "heir",
@@ -4236,7 +4670,8 @@ window.QUIZ_DATA = {
     "i",
     "h"
    ],
-   "correctIndex": 3
+   "correctIndex": 3,
+   "explanation": "The 'h' in \"heir\" is silent — it isn't pronounced."
   },
   {
    "prompt": "wrong",
@@ -4246,7 +4681,8 @@ window.QUIZ_DATA = {
     "w",
     "n"
    ],
-   "correctIndex": 2
+   "correctIndex": 2,
+   "explanation": "The 'w' in \"wrong\" is silent — it isn't pronounced."
   }
  ]
 };
